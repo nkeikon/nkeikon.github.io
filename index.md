@@ -1,11 +1,10 @@
-## Updates
+## News
 
->Joined [Space Intelligence Ltd.](https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/) (Oct 2019).
+Updated [Google #EarthEngine tips](https://twitter.com/Keiko_geo/timelines/1155082696009420801) (Nov 2019).
 
->Went to [Geo for Summit](https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be) (Sep 2019).
+Joined [Space Intelligence Ltd.](https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/) (Oct 2019).
 
->Defended [my thesis](https://twitter.com/Keiko_geo/status/1171497419046998019) (Sep 2019).
-
+Went to [Geo for Summit](https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be) (Sep 2019).
 
 ### Publications
 
