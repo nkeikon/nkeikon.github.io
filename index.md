@@ -1,14 +1,15 @@
 ## News
+```markdown
+- Updated [Google #EarthEngine tips](https://twitter.com/Keiko_geo/timelines/1155082696009420801) (Nov 2019).
 
-- updated [Google #EarthEngine tips](https://twitter.com/Keiko_geo/timelines/1155082696009420801) (Nov 2019).
+- Joined [Space Intelligence Ltd.](https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/) (Oct 2019).
 
-- joined [Space Intelligence Ltd.](https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/) (Oct 2019).
-
-- went to [Geo for Summit](https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be) (Sep 2019).
+- Went to [Geo for Summit](https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be) (Sep 2019).
+```
 
 ### Publications
 
-Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). Oil palm concessions in southern Myanmar consist mostly of unconverted forest.[Oil palm concessions in southern Myanmar consist mostly of unconverted forest.](https://www.nature.com/articles/s41598-019-48443-3) Scientific reports, 9(1), 1-9.
+Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). [Oil palm concessions in southern Myanmar consist mostly of unconverted forest.](https://www.nature.com/articles/s41598-019-48443-3) Scientific reports, 9(1), 1-9.
 
 Nomura, K, Mitchard, E., Bowers, S., & Patenaude, G. (2019). Missed carbon emissions from forests: comparing countries' estimates submitted to UNFCCC to biophysical estimates. Environ. Res. Lett. [https://doi.org/10.1088/1748-9326/aafc6b](https://doi.org/10.1088/1748-9326/aafc6b).
 
