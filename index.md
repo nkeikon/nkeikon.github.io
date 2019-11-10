@@ -11,9 +11,9 @@
 ### Publications
 
 Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). [Oil palm concessions in southern Myanmar consist mostly of unconverted forest.](https://www.nature.com/articles/s41598-019-48443-3) Scientific reports, 9(1), 1-9.
+ - About [oil palm] in Myanmar(op.md)
 
 Nomura, K, Mitchard, E., Bowers, S., & Patenaude, G. (2019). Missed carbon emissions from forests: comparing countries' estimates submitted to UNFCCC to biophysical estimates. Environ. Res. Lett. [https://doi.org/10.1088/1748-9326/aafc6b](https://doi.org/10.1088/1748-9326/aafc6b).
-
  - [FAQ](frel.md) about the paper above
 
 Nomura, K., & Mitchard, E. (2018). [More Than Meets the Eye: Using Sentinel-2 to Map Small Plantations in Complex Forest Landscapes.](https://www.mdpi.com/2072-4292/10/11/1693). Remote Sensing, 10(11), 1693.
