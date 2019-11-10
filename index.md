@@ -1,6 +1,6 @@
 ## Updates
 
-I joined Space Intelligence Ltd. (Oct 2019).
+I joined [Space Intelligence Ltd.](https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/) (Oct 2019).
 
 ### Publications
 
@@ -8,7 +8,7 @@ Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (
 
 Nomura, K, Mitchard, E., Bowers, S., & Patenaude, G. (2019). Missed carbon emissions from forests: comparing countries' estimates submitted to UNFCCC to biophysical estimates. Environ. Res. Lett. https://doi.org/10.1088/1748-9326/aafc6b
 
->>>>>FAQ about the paper above
+ - FAQ about the paper above
 
 Nomura, K., & Mitchard, E. (2018). More Than Meets the Eye: Using Sentinel-2 to Map Small Plantations in Complex Forest Landscapes. Remote Sensing, 10(11), 1693.
 
