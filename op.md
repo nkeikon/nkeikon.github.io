@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151917115-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151917115-1');
+</script>
 <h2>Oil palm in Myanmar</h2>
 <img src="plantation.jpg">
 <h3>Land-Use Change, Forests, and Oil Palm Concessions in Southern Myanmar</h3>
