@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151917115-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151917115-1');
+</script>
 <h3>FAQ</h3>
 <p>Frequently Asked Questions about our <a href="https://iopscience.iop.org/article/10.1088/1748-9326/aafc6b">paper</a> and <a href="https://redd.unfccc.int/fact-sheets/forest-reference-emission-levels.html">FREL/FRL</a></p>
 <p><strong>Question 1</strong>: What is FREL/FRL? What does it have to do with REDD+?</p>
