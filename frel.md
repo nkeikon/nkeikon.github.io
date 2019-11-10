@@ -13,7 +13,6 @@
 <p><a href = 'https://www.globalforestwatch.org/'>Global Forest Watch</a> recently released <a href = 'https://blog.globalforestwatch.org/data/new-plantations-map-sheds-light-on-complexities-of-deforestation?utm_campaign=gfw_map&utm_source=gfwtwitter&utm_medium=photo&utm_term=globalplantations_3_2019'>a plantations map</a>. You can use <a href='http://data.globalforestwatch.org/items/planted-forests'>their shapefile</a> to process the data. Below is an example of finding <a href='http://data.globalforestwatch.org/datasets/33451575fd3e440db27952ea456abb46_10'>a shapefile</a> from GFW.<p>
 
 <p><a title="" href="gfw.png" target="_blank" rel="noopener"><img style="display: block; margin-left: auto; margin-right: auto;" src="gfw.png" alt="step2" width="700" height="366" /></a></p>
-<br></br>
 Our code (written in <a href='https://www.python.org/'>Python</a>) allows you to define forests according to your definition (minimum area and canopy cover, but not tree height). How did we do it? It was difficult (see <a href="https://cdn.iopscience.com/images/1748-9326/14/2/024015/Full/erlaafc6bf1_lr.jpg">here</a> and <a href="sp.png">here</a>). Before running the code, you need to save <a href="https://earthenginepartners.appspot.com/science-2013-global-forest/download_v1.6.html">GFC data</a> of the region of your interest in the directory.</p>
 <p>Below is a step-by-step example:</p>
 <p style="padding-left: 30px;"><strong>Step 1</strong></p>
@@ -25,6 +24,7 @@ Our code (written in <a href='https://www.python.org/'>Python</a>) allows you to
 <p style="padding-left: 30px;"><strong>Step 3</strong></p>
 <p style="padding-left: 30px;">Set parameters and file</p>
 <p><a title="Step 3" href="step3.png" target="_blank" rel="noopener"><strong><img style="display: block; margin-left: auto; margin-right: auto;" src="step3.png" alt="step3" width="700" height="365" /></strong></a></p>
+<p>Alternatively you can use <a href="https://developers.google.com/earth-engine/tutorials/community/forest-cover-loss-estimation">Google Earth Engine</a> to estimate forest cover and loss. </p>
 <p><strong>Question 5</strong>: Why does the GFC data include plantations?&nbsp;</p>
 <p><strong>Answer</strong>: Any data derived from <a href="https://www.usgs.gov/faqs/what-remote-sensing-and-what-it-used?qt-news_science_products=7#qt-news_science_products">remote sensing</a> uses photosynthetic activities in vegetation to detect their location. They don't discriminate trees based on the land use class we assign. Isn't it unreasoble to assume that trees know what their purpose is for humans? ;)</p> More discussions about plantation areas and the GFC data for our analysis are in the second paragraph of <a href="https://iopscience.iop.org/article/10.1088/1748-9326/aafc6b">Section 3.1.3.</a> &nbsp;</p>
 <p><strong>Question 6</strong>: Your analysis included all trees in all areas. Are the results relevant to conservation?</p>
