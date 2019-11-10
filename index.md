@@ -19,36 +19,8 @@ Nomura, K., & Mitchard, E. (2018). [More Than Meets the Eye: Using Sentinel-2 to
 
 ### Media coverage
 
-"Concerns raised about Redd+ scheme to conserve forests," Geographical, 23 May. 2019. https://geographical.co.uk/places/forests/item/3164-redd-scheme.
+"Concerns raised about Redd+ scheme to conserve forests," Geographical, 23 May. 2019. [https://geographical.co.uk/places/forests/item/3164-redd-scheme.](https://geographical.co.uk/places/forests/item/3164-redd-scheme)
 
 "Earth from space: the biggest earth observation conference in the world, ESA’s Living Planet Symposium, kicks off in Milan." Today Programme. BBC Radio 4. 13 May. 2019.
 
-“Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nkeikon/nkeikon.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+“Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
