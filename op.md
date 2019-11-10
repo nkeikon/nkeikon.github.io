@@ -12,8 +12,7 @@
 </table>
 <p>In March 2018, the Myanmar government announced a plan to revoke unplanted areas of oil palm concessions owned by several companies. Most of them are owned by foreign
 companies and have conflicts with villagers. Could concession areas with conflicts with villagers, elephants and the forest department prevent clearance?</p>
-<p><h3>Methods
-</p></h3>
+<h3>Methods</h3>
 <p><img src="fuse.jpg" alt="[UAV and Sentinel-2]">
 </p>
 <p><em>Example of the features visible at different resolutions: individual palm oil trees can be easily distinguished in the UAV data, but their presence in the Sentinel-2 data can only be inferred based on spectral and temporal characteristics of a dense time series of data.</em></p>
