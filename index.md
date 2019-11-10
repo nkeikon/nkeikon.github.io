@@ -25,3 +25,10 @@ Nomura, K., & Mitchard, E. (2018). [More Than Meets the Eye: Using Sentinel-2 to
 "Earth from space: the biggest earth observation conference in the world, ESA’s Living Planet Symposium, kicks off in Milan." Today Programme. BBC Radio 4. 13 May. 2019.
 
 “Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
+
+### About me
+- From Kyoto, Japan
+- UNDP Indonesia 2011-2012
+- UNDP Asia-Pacific Regional Center, Thailand 2012-2013
+- UN Environment Asia and the Pacific, Thailand 2014-2016
+- University of Edinburgh 2016-2019
