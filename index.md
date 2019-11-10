@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## About me
 
 [ORCID](https://orcid.org/0000-0002-5218-3414)
