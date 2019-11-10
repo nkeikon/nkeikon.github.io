@@ -1,3 +1,12 @@
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-151917115-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-151917115-1');
+</script>
 ## News
 ---
 - Updated [Google #EarthEngine tips](https://twitter.com/Keiko_geo/timelines/1155082696009420801) (Nov 2019).
