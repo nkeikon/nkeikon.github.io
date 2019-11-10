@@ -1,20 +1,24 @@
----
-layout: default
----
+## Updates
 
-## About me
+I joined Space Intelligence Ltd. (Oct 2019).
 
-[ORCID](https://orcid.org/0000-0002-5218-3414)
+### Publications
 
-[ResearchGate](https://www.researchgate.net/profile/Keiko_Nomura3)
+Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). Oil palm concessions in southern Myanmar consist mostly of unconverted forest. Scientific reports, 9(1), 1-9.
 
-You can use the [editor on GitHub](https://github.com/nkeikon/nkeikon.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Nomura, K, Mitchard, E., Bowers, S., & Patenaude, G. (2019). Missed carbon emissions from forests: comparing countries' estimates submitted to UNFCCC to biophysical estimates. Environ. Res. Lett. https://doi.org/10.1088/1748-9326/aafc6b
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+>>>>>FAQ about the paper above
 
-### Markdown
+Nomura, K., & Mitchard, E. (2018). More Than Meets the Eye: Using Sentinel-2 to Map Small Plantations in Complex Forest Landscapes. Remote Sensing, 10(11), 1693.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Media coverage
+
+"Concerns raised about Redd+ scheme to conserve forests," Geographical, 23 May. 2019. https://geographical.co.uk/places/forests/item/3164-redd-scheme.
+
+"Earth from space: the biggest earth observation conference in the world, ESA’s Living Planet Symposium, kicks off in Milan." Today Programme. BBC Radio 4. 13 May. 2019.
+
+“Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.
 
 ```markdown
 Syntax highlighted code block
