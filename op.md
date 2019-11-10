@@ -28,7 +28,6 @@ companies and have conflicts with villagers. Could concession areas with conflic
 <td><em>Dot-grid method</em></td>
 </tr>
 <p>The UAV and Worldview data are only available for a small portion of the total study area, and for limited points in time. In order to test hypotheses across the region, so I use the optical data from the UAV to train an algorithm to map palm and tree coverage using Sentinel-2 satellite data (10-20 m resolution). Such Sentinel-2 data is collected every 5 days across the whole region. The algorithm uses a statistical classifier, Random Forest (RF), with 50% of the grids shown in the two figures above used for training, and the remaining 50 % to test the accuracy of the algorithm. The Sentinel-2 data from multiple dates are combined into dense multi-temporal stacks, incorporating the whole annual seasonal cycle, in order to maximise its ability to differentiate between these different vegetation types.</p>
-<h3>Land cover and land use change</h3>
 <table cellspacing="2" cellpadding="2" border="0" summary="">
 <tr>
 <td><img src="S2time.gif" alt="[Sentinel-2 Timelapse]" title="Sentinel-2 monthly median composites"></td>
