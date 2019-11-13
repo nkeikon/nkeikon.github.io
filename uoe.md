@@ -10,7 +10,7 @@
 ### People I worked with and learned from 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/emitchard.jpeg"></center></td>
+<td><center><img src="img/emitchard.jpeg" width="400"></center></td>
 </tr>
 <tr>
 <td><em><center>Dr Edward Mitchard</center></em></td>
@@ -28,7 +28,7 @@
 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/sb.jpeg"></center></td>
+<td><center><img src="img/sb.jpeg" width="400"></center></td>
 </tr>
 <tr>
 <td><em><center>Dr Sam Bowers</center></em></td>
@@ -37,7 +37,7 @@
 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/mh.jpeg"></center></td>
+<td><center><img src="img/mh.jpeg" width="400"></center></td>
 </tr>
 <tr>
 <td><em><center>Dr Matthew Hansen</center></em></td>
