@@ -38,4 +38,4 @@ Nomura, K., & Mitchard, E. (2018). [More Than Meets the Eye: Using Sentinel-2 to
 - UNDP Indonesia 2011-2012
 - UNDP Asia-Pacific Regional Center, Thailand 2012-2013
 - UN Environment Asia and the Pacific, Thailand 2014-2016
-- University of Edinburgh 2016-2019
+- [University of Edinburgh 2016-2019](uoe.md)
