@@ -19,7 +19,7 @@
 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/gp.jpeg"></center></td>
+<td><center><img src="img/gpatenaude.jpeg"></center></td>
 </tr>
 <tr>
 <td><em><center>Dr Genevieve Patenaude</center></em></td>
