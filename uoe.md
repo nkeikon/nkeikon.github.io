@@ -13,7 +13,7 @@
 <td><center><img src="img/emitchard.jpeg" width="400"></center></td>
 </tr>
 <tr>
-<td><em><center>Dr Edward Mitchard</center></em></td>
+  <td><em><center><a href="https://www.geos.ed.ac.uk/homes/emitchar">Dr Edward Mitchard</a></center></em></td>
 </tr>
 </table>
 
@@ -22,7 +22,7 @@
 <td><center><img src="img/gpatenaude.jpeg"></center></td>
 </tr>
 <tr>
-<td><em><center>Dr Genevieve Patenaude</center></em></td>
+<td><em><center><a href="https://www.research.ed.ac.uk/portal/en/persons/genevieve-patenaude(2e4ec6cd-5b23-4a94-a913-9be4c828428e).html">Dr Genevieve Patenaude</a></center></em></td>
 </tr>
 </table>
 
@@ -31,7 +31,7 @@
 <td><center><img src="img/sb.jpeg" width="400"></center></td>
 </tr>
 <tr>
-<td><em><center>Dr Samuel Bowers</center></em></td>
+  <td><em><center><a href="https://sambowers.bitbucket.io/">Dr Samuel Bowers</a></center></em></td>
 </tr>
 </table>
 
@@ -40,7 +40,7 @@
 <td><center><img src="img/mh.jpeg" width="400"></center></td>
 </tr>
 <tr>
-<td><em><center>Dr Matthew Hansen</center></em></td>
+<td><em><center><a href="https://geog.umd.edu/facultyprofile/hansen/matthew-c.">Dr Matthew Hansen</a></center></em></td>
 </tr>
 </table>
 
