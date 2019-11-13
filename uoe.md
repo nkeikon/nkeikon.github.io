@@ -10,7 +10,7 @@
 ### People I worked with and learned from 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/em.jpeg"></center></td>
+<td><center><img src="img/emitchard.jpeg"></center></td>
 </tr>
 <tr>
 <td><em><center>Dr Edward Mitchard</center></em></td>
