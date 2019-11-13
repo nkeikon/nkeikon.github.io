@@ -37,7 +37,7 @@
 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/mh.jpeg" width=250></center></td>
+<td><center><img src="img/mh.jpeg"></center></td>
 </tr>
 <tr>
 <td><em><center>Dr Matthew Hansen</center></em></td>
