@@ -28,7 +28,7 @@
 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/sb.jpeg" width=250></center></td>
+<td><center><img src="img/sb.jpeg"></center></td>
 </tr>
 <tr>
 <td><em><center>Dr Sam Bowers</center></em></td>
