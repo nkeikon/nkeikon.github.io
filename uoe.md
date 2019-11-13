@@ -31,7 +31,7 @@
 <td><center><img src="img/sb.jpeg" width="400"></center></td>
 </tr>
 <tr>
-<td><em><center>Dr Sam Bowers</center></em></td>
+<td><em><center>Dr Samuel Bowers</center></em></td>
 </tr>
 </table>
 
