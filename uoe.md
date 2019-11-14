@@ -28,7 +28,7 @@
 
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
-<td><center><img src="img/sb.jpg" width="400"></center></td>
+<td><center><img src="img/sb.jpeg" width="400"></center></td>
 </tr>
 <tr>
   <td><em><center><a href="https://sambowers.bitbucket.io/">Dr Samuel Bowers</a></center></em></td>
