@@ -39,6 +39,6 @@ Nomura, K., & Mitchard, E. (2018). [More Than Meets the Eye: Using Sentinel-2 to
 - From Kyoto, Japan
 - UNDP Indonesia 2011-2012
 - UNDP Asia-Pacific Regional Center, Thailand 2012-2013
-- [UN Environment Asia and the Pacific, Thailand 2014-2016](https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99)
+- <a href="https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99" blank="_blank">UN Environment Asia and the Pacific, Thailand 2014-2016</a>
 - [University of Edinburgh 2016-2019](uoe.md)
-- Space Intelligence, ltd. 2019-
+- <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence ltd. 2019-</a>
