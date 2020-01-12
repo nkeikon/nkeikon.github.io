@@ -9,11 +9,10 @@
 </script>
 ## News
 ---
+<a class="twitter-timeline" href="https://twitter.com/keiko_geo" data-tweet-limit="3" data-width="399" ></a>
+<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - Updated <a href="https://twitter.com/Keiko_geo/timelines/1155082696009420801" target="_blank">Google #EarthEngine tips</a> (Dec 2019).
 - Joined <a href="https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/" target="_blank">Space Intelligence Ltd.</a> (Oct 2019).
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I joined Space Intelligence! Very much looking forward to taking on exciting projects<a href="https://t.co/7Dk6JEqBws">https://t.co/7Dk6JEqBws</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1181984755983630336?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
 - Went to <a href="https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be" target="_blank">Geo for Summit</a> (Sep 2019).
 
 ---
@@ -28,6 +27,14 @@
 
 “Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
 
+### About me
+- From Kyoto, Japan
+- UNDP Indonesia 2011-2012
+- UNDP Asia-Pacific Regional Center, Thailand 2012-2013
+- <a href="https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99" blank="_blank">UN Environment Asia and the Pacific, Thailand 2014-2016</a>
+- University of Edinburgh 2016-2019 >>> [People I worked with and learned from](uoe.md)
+- <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence ltd. 2019-</a>
+
 ### Publications
 
 Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). [Oil palm concessions in southern Myanmar consist mostly of unconverted forest.](https://www.nature.com/articles/s41598-019-48443-3) Scientific reports, 9(1), 1-9.
@@ -37,11 +44,3 @@ Nomura, K., Mitchard, E. T., Bowers, S. J., & Patenaude, G. (2019). [Missed carb
  - [FAQ](frel.md) about the paper above
 
 Nomura, K., & Mitchard, E. (2018). [More Than Meets the Eye: Using Sentinel-2 to Map Small Plantations in Complex Forest Landscapes](https://www.mdpi.com/2072-4292/10/11/1693). Remote Sensing, 10(11), 1693.
-
-### About me
-- From Kyoto, Japan
-- UNDP Indonesia 2011-2012
-- UNDP Asia-Pacific Regional Center, Thailand 2012-2013
-- <a href="https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99" blank="_blank">UN Environment Asia and the Pacific, Thailand 2014-2016</a>
-- University of Edinburgh 2016-2019 >>> [People I worked with and learned from](uoe.md)
-- <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence ltd. 2019-</a>
