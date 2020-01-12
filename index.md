@@ -8,8 +8,9 @@
   gtag('config', 'UA-151917115-1');
 </script>
 ## News
+<a class="twitter-timeline" data-height="200" href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw" data-tweet-limit="1">Tweets by Keiko_geo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ---
-<a class="twitter-timeline" href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by Keiko_geo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 - Updated <a href="https://twitter.com/Keiko_geo/timelines/1155082696009420801" target="_blank">Google #EarthEngine tips</a> (Dec 2019).
 - Joined <a href="https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/" target="_blank">Space Intelligence Ltd.</a> (Oct 2019).
 - Went to <a href="https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be" target="_blank">Geo for Summit</a> (Sep 2019).
