@@ -10,7 +10,7 @@
 ## News
 ---
 
-- Updated <a href="gee.md" target="_blank">top 10 Google #EarthEngine tips</a> (Jan 2020).
+- Updated [top 10 Google #EarthEngine tips](gee.md) (Jan 2020).
 - Joined <a href="https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/" target="_blank">Space Intelligence Ltd.</a> (Oct 2019).
 - Went to <a href="https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be" target="_blank">Geo for Summit</a> (Sep 2019).
 
