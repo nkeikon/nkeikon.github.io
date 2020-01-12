@@ -9,6 +9,7 @@
 </script>
 ## News
 <a class="twitter-timeline" data-height="200" href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw" data-tweet-limit="1">Tweets by Keiko_geo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ---
 
 - Updated <a href="https://twitter.com/Keiko_geo/timelines/1155082696009420801" target="_blank">Google #EarthEngine tips</a> (Dec 2019).
