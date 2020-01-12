@@ -9,8 +9,7 @@
 </script>
 ## News
 ---
-<a class="twitter-timeline" href="https://twitter.com/keiko_geo" data-tweet-limit="3" data-width="399" ></a>
-<script async src="http://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a class="twitter-timeline" href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw" data-tweet-limit="3">Tweets by Keiko_geo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 - Updated <a href="https://twitter.com/Keiko_geo/timelines/1155082696009420801" target="_blank">Google #EarthEngine tips</a> (Dec 2019).
 - Joined <a href="https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/" target="_blank">Space Intelligence Ltd.</a> (Oct 2019).
 - Went to <a href="https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be" target="_blank">Geo for Summit</a> (Sep 2019).
@@ -32,7 +31,7 @@
 - UNDP Indonesia 2011-2012
 - UNDP Asia-Pacific Regional Center, Thailand 2012-2013
 - <a href="https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99" blank="_blank">UN Environment Asia and the Pacific, Thailand 2014-2016</a>
-- University of Edinburgh 2016-2019 >>> [People I worked with and learned from](uoe.md)
+- University of Edinburgh 2016-2019 -> [People I worked with and learned from](uoe.md)
 - <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence ltd. 2019-</a>
 
 ### Publications
