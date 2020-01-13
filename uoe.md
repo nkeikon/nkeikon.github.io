@@ -52,3 +52,21 @@
   <td><em><center><a href="https://www.geos.ed.ac.uk/homes/ihw/">Prof Iain Woodhouse</a></center></em></td>
 </tr>
 </table>
+
+<table cellspacing="2" cellpadding="2" border="0">
+<tr>
+<td><center><img src="img/patrickoswald.jpg" width="400"></center></td>
+</tr>
+<tr>
+  <td><em><center><a href="https://www.researchgate.net/profile/Patrick_Oswald3">Patrick Oswald</a></center></em></td>
+</tr>
+</table>
+
+<table cellspacing="2" cellpadding="2" border="0">
+<tr>
+<td><center><img src="img/thazinnwe.jpg" width="400"></center></td>
+</tr>
+<tr>
+  <td><em><center><a href="https://www.linkedin.com/in/thazin-nwe-76059a122/">Thazin Nwe</a></center></em></td>
+</tr>
+</table>
