@@ -12,7 +12,6 @@
 
 - Updated [Top 10 Google #EarthEngine tips](gee.md) (Jan 2020).
 - Added [People I worked with and learned from](uoe.md) (Oct 2019).
-- Joined <a href="https://www.space-intelligence.com/2019/10/09/dr-keiko-nomura-joins-space-intelligence-as-senior-analyst/" target="_blank">Space Intelligence Ltd.</a> (Oct 2019).
 - Went to <a href="https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be" target="_blank">Geo for Summit</a> (Sep 2019).
 
 <blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">I joined Space Intelligence! Very much looking forward to taking on exciting projects<a href="https://t.co/7Dk6JEqBws">https://t.co/7Dk6JEqBws</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1181984755983630336?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
