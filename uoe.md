@@ -44,4 +44,11 @@
 </tr>
 </table>
 
-
+<table cellspacing="2" cellpadding="2" border="0">
+<tr>
+<td><center><img src="img/iainwoodhouse.jpg" width="400"></center></td>
+</tr>
+<tr>
+  <td><em><center><a href="https://www.geos.ed.ac.uk/homes/ihw/">Prof Iain Woodhouse</a></center></em></td>
+</tr>
+</table>
