@@ -10,6 +10,7 @@
 ## News
 ---
 
+- Published ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) (Jan 2020).
 - Updated [Top 10 Google #EarthEngine tips](gee.md) (Jan 2020).
 - Added [People I worked with and learned from](uoe.md) (Oct 2019).
 - Went to <a href="https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be" target="_blank">Geo for Summit</a> (Sep 2019).
@@ -23,6 +24,8 @@
 ### Media coverage
 
 "Myanmar risks losing forests to oil palm, but there’s time to pivot," Mongabay Environmental News, 13 November. 2019. [https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/.](https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/)
+
+"The Case for SPACE," [the Herald's Business HQ Magazine](https://edition.pagesuite-professional.co.uk/html5/reader/production/default.aspx?pubname=&edid=deb00c07-8192-46cc-91b8-070de88f594b), page 89, issue 10, summer 2019. 
 
 "Concerns raised about Redd+ scheme to conserve forests," Geographical, 23 May. 2019. [https://geographical.co.uk/places/forests/item/3164-redd-scheme.](https://geographical.co.uk/places/forests/item/3164-redd-scheme)
 
