@@ -10,6 +10,9 @@
 <h2>Oil palm in Myanmar</h2>
 <img src="plantation.jpg">
 <h3>Land-Use Change, Forests, and Oil Palm Concessions in Southern Myanmar</h3>
+
+<iframe src="https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map" width="100%" height="500"><p>Tanintharyi oil palm and rubber map</p></iframe>
+
 <p>Myanmar  had  the  third  largest  area  of  forest  loss  in  the  world  from  1990 to 2015,  with  the  forest  cover  declining  from  39.2  million  hectares  to 29  million  hectares  (FAO,  2015).  While  the  country  lacks  accurate  data  on deforestation,  forest  degradation  and  forest  carbon  stocks,  the  increase  of  agricultural  area  and  temporary  cropped  area  matches  the  forest  area  decline  of  about  7.7  million  ha between  1990 and  2011  (Raitzer  etal.,  2015).  Among  several  agribusiness  concessions,  oil  palm  plantations  have  increased  by 900%  since  2000.  These  are  located  in the  Tanintharyi  Region  of  Southern  Myanmar.  As of 2015,  402,000  hectares  have  been allocated  for  oil  palm  development,  of  which  less  than  40%  has so  far  been  planted  (Baskett,  2016). </p>
 <table cellspacing="2" cellpadding="2" border="0">
 <tr>
