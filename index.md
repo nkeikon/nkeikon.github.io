@@ -44,7 +44,7 @@
 ### Publications
 
 Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). [Oil palm concessions in southern Myanmar consist mostly of unconverted forest.](https://www.nature.com/articles/s41598-019-48443-3) Scientific reports, 9(1), 1-9.
- - <iframe src="https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map" width="100%" height="300"><p>Tanintharyi oil palm and rubber map</p></iframe>
+ - [Tanintharyi oil palm and rubber map](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map)
  - About [oil palm](op.md) in Myanmar
 
 Nomura, K., Mitchard, E. T., Bowers, S. J., & Patenaude, G. (2019). [Missed carbon emissions from forests: comparing countries' estimates submitted to UNFCCC to biophysical estimates.](https://iopscience.iop.org/article/10.1088/1748-9326/aafc6b) Environmental Research Letters.
