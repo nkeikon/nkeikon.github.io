@@ -10,7 +10,7 @@
 ## News
 ---
 
-- Created #EarthEngine app for [oil palm and rubber plantations in Tanintaryi Myanmar] (https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map) (Mar 2020).
+- Created #EarthEngine app for [oil palm and rubber plantations in Tanintaryi Myanmar](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map) (Mar 2020).
 - Published ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) (Jan 2020).
 - Updated [Top 10 Google #EarthEngine tips](gee.md) (Jan 2020).
 - Added [People I worked with and learned from](uoe.md) (Oct 2019).
