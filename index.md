@@ -10,7 +10,7 @@
 ## News
 ---
 
-- Released a new #EarthEngine tip: [Can satellite images tell us if the parking is full? #Gatwick #COVID19](https://twitter.com/Keiko_geo/status/1245842335155527680) 
+- Released a new #EarthEngine tip: [Can satellite images tell us if the car park is full? #Gatwick #COVID19](https://twitter.com/Keiko_geo/status/1245842335155527680) 
 - Created an #EarthEngine app for [oil palm and rubber plantations in Tanintaryi Myanmar](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map) (Mar 2020).
 - Published ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) (Jan 2020).
 - Updated [Top 10 Google #EarthEngine tips](gee.md) (Jan 2020).
@@ -23,6 +23,14 @@
 
 ---
 
+### About me
+- From Kyoto, Japan
+- UNDP Indonesia 2011-2012
+- UNDP Asia-Pacific Regional Center, Thailand 2012-2013
+- <a href="https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99" blank="_blank">UN Environment Asia and the Pacific, Thailand 2014-2016</a>
+- University of Edinburgh 2016-2019 -> [People I worked with and learned from](uoe.md)
+- <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence Ltd. 2019-</a>
+
 ### Media coverage
 
 "Myanmar risks losing forests to oil palm, but there’s time to pivot," Mongabay Environmental News, 13 November. 2019. [https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/.](https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/)
@@ -34,14 +42,6 @@
 "Earth from space: the biggest earth observation conference in the world, ESA’s Living Planet Symposium, kicks off in Milan." Today Programme. BBC Radio 4. 13 May. 2019.
 
 “Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
-
-### About me
-- From Kyoto, Japan
-- UNDP Indonesia 2011-2012
-- UNDP Asia-Pacific Regional Center, Thailand 2012-2013
-- <a href="https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99" blank="_blank">UN Environment Asia and the Pacific, Thailand 2014-2016</a>
-- University of Edinburgh 2016-2019 -> [People I worked with and learned from](uoe.md)
-- <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence ltd. 2019-</a>
 
 ### Publications
 
