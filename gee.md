@@ -30,43 +30,41 @@
 
 
 ### No.4
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Finally I got around to make a simple <a href="https://twitter.com/hashtag/GoogleEarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleEarthEngine</a> app for <a href="https://twitter.com/hashtag/PalmOil?src=hash&amp;ref_src=twsrc%5Etfw">#PalmOil</a> and <a href="https://twitter.com/hashtag/Rubber?src=hash&amp;ref_src=twsrc%5Etfw">#Rubber</a> plantations in Tanintharyi <a href="https://twitter.com/hashtag/Myanmnar?src=hash&amp;ref_src=twsrc%5Etfw">#Myanmnar</a> - part of my PhD project: <a href="https://t.co/uYvtkDQ2UR">https://t.co/uYvtkDQ2UR</a> Feel free to use the code: <a href="https://t.co/grWobbONed">https://t.co/grWobbONed</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1241728998486478850?ref_src=twsrc%5Etfw">March 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+### And this by Prof Qiusheng Wu! 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">A <a href="https://twitter.com/hashtag/Jupyter?src=hash&amp;ref_src=twsrc%5Etfw">#Jupyter</a> notebook example for interactive mapping with <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a>, <a href="https://twitter.com/hashtag/ipyleaflet?src=hash&amp;ref_src=twsrc%5Etfw">#ipyleaflet</a>, and <a href="https://twitter.com/hashtag/ipywidgets?src=hash&amp;ref_src=twsrc%5Etfw">#ipywidgets</a>. Thanks to <a href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw">@Keiko_geo</a> for the JS code. Try it with binder now: <a href="https://t.co/QERw7GKttX">https://t.co/QERw7GKttX</a> <a href="https://twitter.com/hashtag/Python?src=hash&amp;ref_src=twsrc%5Etfw">#Python</a> <a href="https://twitter.com/gartn001?ref_src=twsrc%5Etfw">@gartn001</a> <a href="https://twitter.com/davidbrochart?ref_src=twsrc%5Etfw">@davidbrochart</a> <a href="https://twitter.com/SylvainCorlay?ref_src=twsrc%5Etfw">@SylvainCorlay</a> <a href="https://twitter.com/ProjectJupyter?ref_src=twsrc%5Etfw">@ProjectJupyter</a> <a href="https://twitter.com/googleearth?ref_src=twsrc%5Etfw">@googleearth</a> <a href="https://twitter.com/jstnbraaten?ref_src=twsrc%5Etfw">@jstnbraaten</a> <a href="https://t.co/wpFvWespYE">https://t.co/wpFvWespYE</a> <a href="https://t.co/jDzuCU6sFp">pic.twitter.com/jDzuCU6sFp</a></p>&mdash; Qiusheng Wu (@giswqs) <a href="https://twitter.com/giswqs/status/1241767209350901760?ref_src=twsrc%5Etfw">March 22, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### No.5
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Something different this time. &quot;Interactive <a href="https://twitter.com/hashtag/maps?src=hash&amp;ref_src=twsrc%5Etfw">#maps</a> on <a href="https://twitter.com/hashtag/python?src=hash&amp;ref_src=twsrc%5Etfw">#python</a> <a href="https://twitter.com/hashtag/JupyterNotebook?src=hash&amp;ref_src=twsrc%5Etfw">#JupyterNotebook</a>&quot; <a href="https://twitter.com/hashtag/folium?src=hash&amp;ref_src=twsrc%5Etfw">#folium</a> <a href="https://twitter.com/hashtag/ipyleaflet?src=hash&amp;ref_src=twsrc%5Etfw">#ipyleaflet</a> What else is out there? Do you use <a href="https://twitter.com/hashtag/gmaps?src=hash&amp;ref_src=twsrc%5Etfw">#gmaps</a>, <a href="https://twitter.com/hashtag/mapbox?src=hash&amp;ref_src=twsrc%5Etfw">#mapbox</a>, <a href="https://twitter.com/hashtag/bokeh?src=hash&amp;ref_src=twsrc%5Etfw">#bokeh</a>? what&#39;s your favourite? <a href="https://t.co/M0ODlcwKdI">pic.twitter.com/M0ODlcwKdI</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1236404022715789313?ref_src=twsrc%5Etfw">March 7, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+### No.6
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">I contributed to <a href="https://twitter.com/hashtag/GoogleEarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleEarthEngine</a> community <a href="https://twitter.com/hashtag/tutorial?src=hash&amp;ref_src=twsrc%5Etfw">#tutorial</a> - showing how to display and estimate forest area based on forest definitions using connectedPixelCount, reproject and atScale, for reporting, <a href="https://twitter.com/hashtag/REDD?src=hash&amp;ref_src=twsrc%5Etfw">#REDD</a>+ <a href="https://twitter.com/hashtag/FREL?src=hash&amp;ref_src=twsrc%5Etfw">#FREL</a> etc with any data source (example uses GFC) <a href="https://t.co/4mxGnvmBHd">https://t.co/4mxGnvmBHd</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1179719153222991872?ref_src=twsrc%5Etfw">October 3, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### No.5
-
+### No.7
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 15: I made an app that shows <a href="https://twitter.com/hashtag/deforestation?src=hash&amp;ref_src=twsrc%5Etfw">#deforestation</a> in <a href="https://twitter.com/hashtag/protectedAreas?src=hash&amp;ref_src=twsrc%5Etfw">#protectedAreas</a> (see tip 14) globally <a href="https://t.co/j828H2twqA">https://t.co/j828H2twqA</a> Feel free to improve! code-&gt; <a href="https://t.co/3Kch4hHnpM">https://t.co/3Kch4hHnpM</a> <a href="https://t.co/ahm5U4Sh58">pic.twitter.com/ahm5U4Sh58</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1135510020832079875?ref_src=twsrc%5Etfw">June 3, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### No.6
-
+### No.8
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 27: can&#39;t get enough maps? Use <a href="https://t.co/iSqkjalmaC">https://t.co/iSqkjalmaC</a> function to add more maps in <a href="https://twitter.com/hashtag/console?src=hash&amp;ref_src=twsrc%5Etfw">#console</a>.  Following up on the Wednesday&#39;s <a href="https://twitter.com/hashtag/EarthEngineVirtualMeetUp?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngineVirtualMeetUp</a> How would you use this? <a href="https://t.co/S4owCi2bcm">pic.twitter.com/S4owCi2bcm</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1193175669263552513?ref_src=twsrc%5Etfw">November 9, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### No.7
-
+### No.9
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 19: Visualise <a href="https://twitter.com/hashtag/SAR?src=hash&amp;ref_src=twsrc%5Etfw">#SAR</a> without math on <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a>. Use ee-palettes, made by <a href="https://twitter.com/gena_d?ref_src=twsrc%5Etfw">@gena_d</a>, Fedor and <a href="https://twitter.com/jstnbraaten?ref_src=twsrc%5Etfw">@jstnbraaten</a> 🙏 <a href="https://twitter.com/hashtag/GEECommunity?src=hash&amp;ref_src=twsrc%5Etfw">#GEECommunity</a> <a href="https://twitter.com/hashtag/Sentinel1?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel1</a> <a href="https://t.co/XVT1d7CZ15">pic.twitter.com/XVT1d7CZ15</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1146543481395040257?ref_src=twsrc%5Etfw">July 3, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### No.8
-
+### No.10
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 12: Use ui.Chart.image.histogram to see the trend and year of tree loss <a href="https://twitter.com/hashtag/hansen?src=hash&amp;ref_src=twsrc%5Etfw">#hansen</a> <a href="https://twitter.com/hashtag/treeloss?src=hash&amp;ref_src=twsrc%5Etfw">#treeloss</a> <a href="https://twitter.com/hashtag/histogram?src=hash&amp;ref_src=twsrc%5Etfw">#histogram</a> <a href="https://twitter.com/hashtag/papua?src=hash&amp;ref_src=twsrc%5Etfw">#papua</a> <a href="https://t.co/UXzFk4kajs">pic.twitter.com/UXzFk4kajs</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1133400695888072706?ref_src=twsrc%5Etfw">May 28, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### No.9
-
+### Special (for like minded researchers!)
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 20: Use <a href="https://twitter.com/hashtag/plantation?src=hash&amp;ref_src=twsrc%5Etfw">#plantation</a> maps from <a href="https://twitter.com/globalforests?ref_src=twsrc%5Etfw">@globalforests</a> to visualise harvesting and exclude plantations from tree loss in a country <a href="https://t.co/Q20kz4qoDD">https://t.co/Q20kz4qoDD</a> <a href="https://t.co/C84pQ7v2yv">https://t.co/C84pQ7v2yv</a> <a href="https://t.co/yW7Hiw0zdi">pic.twitter.com/yW7Hiw0zdi</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1149325145972125696?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-
-### No.10
-
-<blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 10: Use <a href="https://twitter.com/hashtag/Hansen?src=hash&amp;ref_src=twsrc%5Etfw">#Hansen</a> data for tree cover, and apply min canopy cover and min area size <a href="https://twitter.com/hashtag/forestDefinition?src=hash&amp;ref_src=twsrc%5Etfw">#forestDefinition</a> <a href="https://twitter.com/hashtag/connectedPixelCount?src=hash&amp;ref_src=twsrc%5Etfw">#connectedPixelCount</a> <a href="https://t.co/HuIp55avMV">pic.twitter.com/HuIp55avMV</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1130513234832908293?ref_src=twsrc%5Etfw">May 20, 2019</a></blockquote>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
