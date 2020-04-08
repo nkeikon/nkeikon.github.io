@@ -65,6 +65,6 @@
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
-### Special (for like minded researchers!)
+### Special (for like-minded researchers!)
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 20: Use <a href="https://twitter.com/hashtag/plantation?src=hash&amp;ref_src=twsrc%5Etfw">#plantation</a> maps from <a href="https://twitter.com/globalforests?ref_src=twsrc%5Etfw">@globalforests</a> to visualise harvesting and exclude plantations from tree loss in a country <a href="https://t.co/Q20kz4qoDD">https://t.co/Q20kz4qoDD</a> <a href="https://t.co/C84pQ7v2yv">https://t.co/C84pQ7v2yv</a> <a href="https://t.co/yW7Hiw0zdi">pic.twitter.com/yW7Hiw0zdi</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1149325145972125696?ref_src=twsrc%5Etfw">July 11, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
