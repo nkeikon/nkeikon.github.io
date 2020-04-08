@@ -10,7 +10,7 @@
 ## News
 ---
 
-- Released a new #EarthEngine tip: [Can satellite images tell us if the car park is full? #Gatwick #COVID19](https://twitter.com/Keiko_geo/status/1245842335155527680) 
+- Released a new #EarthEngine tip: [Can satellite images tell us if the car park is full? #Gatwick #COVID19](https://twitter.com/Keiko_geo/status/1245842335155527680) (Apr 2020)
 - Created an #EarthEngine app for [oil palm and rubber plantations in Tanintaryi Myanmar](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map) (Mar 2020).
 - Published ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) (Jan 2020).
 - Updated [Top 10 Google #EarthEngine tips](gee.md) (Jan 2020).
