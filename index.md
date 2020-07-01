@@ -34,7 +34,11 @@
 - University of Edinburgh 2016-2019 -> [People I worked with and learned from](uoe.md)
 - <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence Ltd. 2019-</a>
 
-### Media coverage
+### Media coverage and engagement
+
+"[Space and Satellites Artist Residency – Work in Progress: Cécile Simonis,"](https://www.designinformatics.org/event/space-and-satellites-artist-residency-work-in-progress-cecile-simonis/) Space Technology Thursday Talk, 11 June 2020.
+
+"[Detecting palm oil plantation land use in Myanmar,"](https://newsroom.eodatascience.com/detecting-palm-oil-plantation-land-use-in-myanmar) EO Data Science, May 2020.
 
 "Myanmar risks losing forests to oil palm, but there’s time to pivot," Mongabay Environmental News, 13 November. 2019. [https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/.](https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/)
 
