@@ -57,5 +57,6 @@ Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (
 
 Nomura, K., Mitchard, E. T., Bowers, S. J., & Patenaude, G. (2019). [Missed carbon emissions from forests: comparing countries' estimates submitted to UNFCCC to biophysical estimates.](https://iopscience.iop.org/article/10.1088/1748-9326/aafc6b) Environmental Research Letters.
  - [FAQ](frel.md) about the paper above
+ - [Code](https://bitbucket.org/nkeikon/erl/)
 
 Nomura, K., & Mitchard, E. (2018). [More Than Meets the Eye: Using Sentinel-2 to Map Small Plantations in Complex Forest Landscapes](https://www.mdpi.com/2072-4292/10/11/1693). Remote Sensing, 10(11), 1693.
