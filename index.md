@@ -10,6 +10,7 @@
 ## News
 ---
 
+- [Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/) (July 2020)
 - Interview with EO Data Science "[Detecting palm oil plantation land use in Myanmar"](https://newsroom.eodatascience.com/detecting-palm-oil-plantation-land-use-in-myanmar) (May 2020)
 - Experimenting with [GEDI data visualisation](https://nkeikon.github.io/gedi_viz) (Apr 2020)
 - Released a new #EarthEngine tip: [Can satellite images tell us if the car park is full? #Gatwick #COVID19](https://twitter.com/Keiko_geo/status/1245842335155527680) (Apr 2020)
