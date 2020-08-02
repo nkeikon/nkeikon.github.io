@@ -10,6 +10,8 @@
 
 # Top tips
 
+NOTE: I started to create these tutorials when I was a PhD student. I decided to continue, but it has nothing to do with my current affiliation/employer.
+
 ### No.1 
 
 <blockquote class="twitter-tweet" data-partner="tweetdeck"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 26: inspired by <a href="https://twitter.com/annamaria_84?ref_src=twsrc%5Etfw">@annamaria_84</a> <a href="https://twitter.com/hashtag/NDVI?src=hash&amp;ref_src=twsrc%5Etfw">#NDVI</a> time-series composite in <a href="https://twitter.com/hashtag/RGB?src=hash&amp;ref_src=twsrc%5Etfw">#RGB</a> - you can see when trees or crops were cleared or have grown by colour (May 2017, 2018, and 2019). Red = cleared; blue = grown using <a href="https://twitter.com/hashtag/GoogleEarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleEarthEngine</a> <a href="https://t.co/qqotIzqIPt">pic.twitter.com/qqotIzqIPt</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1188451445617713152?ref_src=twsrc%5Etfw">October 27, 2019</a></blockquote>
