@@ -13,11 +13,6 @@
 - Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/) (November 2020)
 - Became [#SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR (November 2020)
 - Spoke at [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
-- Blogged [Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/) (July 2020)
-- Interview with EO Data Science "[Detecting palm oil plantation land use in Myanmar"](https://newsroom.eodatascience.com/detecting-palm-oil-plantation-land-use-in-myanmar) (May 2020)
-- Experimenting with [GEDI data visualisation](https://nkeikon.github.io/gedi_viz) (Apr 2020)
-- Released a new #EarthEngine tip: [Can satellite images tell us if the car park is full? #Gatwick #COVID19](https://twitter.com/Keiko_geo/status/1245842335155527680) (Apr 2020)
-- Published ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) (Jan 2020).
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ImageOfTheDay?src=hash&amp;ref_src=twsrc%5Etfw">#ImageOfTheDay</a> <a href="https://twitter.com/hashtag/HolidaySpecial?src=hash&amp;ref_src=twsrc%5Etfw">#HolidaySpecial</a>🎄<br><br>Peatlands are core ecosystems for <a href="https://twitter.com/hashtag/biodiversity?src=hash&amp;ref_src=twsrc%5Etfw">#biodiversity</a> <br><br>In May 2019, a <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a> burned for 6⃣ days affecting &gt;5,300 hectares of <a href="https://twitter.com/hashtag/peatlands?src=hash&amp;ref_src=twsrc%5Etfw">#peatlands</a> in 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br><br>⬇️<a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🇪🇺🛰️view of the🔥: the smoke is shown red tones<br><br>Image processed by <a href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw">@Keiko_geo</a> <a href="https://t.co/lbpvb5ISH7">pic.twitter.com/lbpvb5ISH7</a></p>&mdash; 🇪🇺 DG DEFIS #StrongerTogether (@defis_eu) <a href="https://twitter.com/defis_eu/status/1341669925895729152?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -59,6 +54,9 @@
 “Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
 
 ### Publications
+[Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/), Space Intelligence, 30 July 2020
+
+["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b), Medium, 28 Jan 2020.
 
 Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). [Oil palm concessions in southern Myanmar consist mostly of unconverted forest.](https://www.nature.com/articles/s41598-019-48443-3) Scientific reports, 9(1), 1-9.
  - [Tanintharyi oil palm and rubber map](https://nkeikon.users.earthengine.app/view/tanintharyi-oil-palm-and-rubber-map)
