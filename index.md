@@ -9,20 +9,20 @@
 </script>
 ## News
 ---
-
-- [Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/) (July 2020)
+- Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency, (December 2020)
+- Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/), (November 2020)
+- Spoke at [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah](https://www.youtube.com/watch?v=Tq75sLKkVyQ), (October 2020)
+- Blogged [Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/) (July 2020)
 - Interview with EO Data Science "[Detecting palm oil plantation land use in Myanmar"](https://newsroom.eodatascience.com/detecting-palm-oil-plantation-land-use-in-myanmar) (May 2020)
 - Experimenting with [GEDI data visualisation](https://nkeikon.github.io/gedi_viz) (Apr 2020)
 - Released a new #EarthEngine tip: [Can satellite images tell us if the car park is full? #Gatwick #COVID19](https://twitter.com/Keiko_geo/status/1245842335155527680) (Apr 2020)
 - Published ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b) (Jan 2020).
-- Added [People I worked with and learned from](uoe.md) (Oct 2019).
-- Went to <a href="https://www.youtube.com/watch?v=M8u2ZeXLFyM&feature=youtu.be" target="_blank">Geo for Good Summit</a> (Sep 2019).
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">We were featured in <a href="https://twitter.com/heraldscotland?ref_src=twsrc%5Etfw">@heraldscotland</a> by <a href="https://twitter.com/KimMcAllister?ref_src=twsrc%5Etfw">@KimMcAllister</a>! &quot;In <a href="https://twitter.com/hashtag/Scotland?src=hash&amp;ref_src=twsrc%5Etfw">#Scotland</a>, several firms are carrying out highly specialised research to apply data from <a href="https://twitter.com/hashtag/space?src=hash&amp;ref_src=twsrc%5Etfw">#space</a> to the <a href="https://twitter.com/hashtag/UN?src=hash&amp;ref_src=twsrc%5Etfw">#UN</a> <a href="https://twitter.com/hashtag/SDG?src=hash&amp;ref_src=twsrc%5Etfw">#SDG</a>&quot; With <a href="https://twitter.com/Carbomap?ref_src=twsrc%5Etfw">@Carbomap</a> and <a href="https://twitter.com/ecometrica?ref_src=twsrc%5Etfw">@ecometrica</a>. <a href="https://twitter.com/SpaceIntelli?ref_src=twsrc%5Etfw">@SpaceIntelli</a> is working with <a href="https://twitter.com/nature_scot?ref_src=twsrc%5Etfw">@nature_scot</a> and <a href="https://twitter.com/ScotWildlife?ref_src=twsrc%5Etfw">@ScotWildlife</a> on <a href="https://twitter.com/hashtag/NaturalCap?src=hash&amp;ref_src=twsrc%5Etfw">#NaturalCap</a> <a href="https://t.co/RhoFKcIvHu">pic.twitter.com/RhoFKcIvHu</a></p>&mdash; Space Intelligence 🚀🛰️🌎🗺️ (@SpaceIntelli) <a href="https://twitter.com/SpaceIntelli/status/1240657634405027849?ref_src=twsrc%5Etfw">March 19, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ImageOfTheDay?src=hash&amp;ref_src=twsrc%5Etfw">#ImageOfTheDay</a> <a href="https://twitter.com/hashtag/HolidaySpecial?src=hash&amp;ref_src=twsrc%5Etfw">#HolidaySpecial</a>🎄<br><br>Peatlands are core ecosystems for <a href="https://twitter.com/hashtag/biodiversity?src=hash&amp;ref_src=twsrc%5Etfw">#biodiversity</a> <br><br>In May 2019, a <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a> burned for 6⃣ days affecting &gt;5,300 hectares of <a href="https://twitter.com/hashtag/peatlands?src=hash&amp;ref_src=twsrc%5Etfw">#peatlands</a> in 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br><br>⬇️<a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🇪🇺🛰️view of the🔥: the smoke is shown red tones<br><br>Image processed by <a href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw">@Keiko_geo</a> <a href="https://t.co/lbpvb5ISH7">pic.twitter.com/lbpvb5ISH7</a></p>&mdash; 🇪🇺 DG DEFIS #StrongerTogether (@defis_eu) <a href="https://twitter.com/defis_eu/status/1341669925895729152?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you need a pick-me-up from a mid-week slump, I highly recommend revisiting this 👇 inspiring panel from <a href="https://twitter.com/geospatialwomen?ref_src=twsrc%5Etfw">@geospatialwomen</a>. Great advice, motivation, and a diversity of paths and experiences among some exemplary women in geospatial tech! <a href="https://t.co/HEUvdZhgep">https://t.co/HEUvdZhgep</a> <a href="https://t.co/xijCHUQRz9">pic.twitter.com/xijCHUQRz9</a></p>&mdash; Kelsey E. Herndon (@keherndon) <a href="https://twitter.com/keherndon/status/1326554791762255875?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I joined Space Intelligence! Very much looking forward to taking on exciting projects<a href="https://t.co/7Dk6JEqBws">https://t.co/7Dk6JEqBws</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1181984755983630336?ref_src=twsrc%5Etfw">October 9, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet" data-dnt="true"><p lang="en" dir="ltr">Today was the day! <a href="https://twitter.com/hashtag/graduation?src=hash&amp;ref_src=twsrc%5Etfw">#graduation</a> <a href="https://twitter.com/hashtag/McEwanHall?src=hash&amp;ref_src=twsrc%5Etfw">#McEwanHall</a> <a href="https://twitter.com/GeosciencesEd?ref_src=twsrc%5Etfw">@GeosciencesEd</a> <a href="https://t.co/p2jpkuXl5a">pic.twitter.com/p2jpkuXl5a</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1199434717713633281?ref_src=twsrc%5Etfw">November 26, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ---
 
@@ -35,6 +35,11 @@
 - <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence Ltd. 2019-</a>
 
 ### Media coverage and engagement
+[Image of the Day](https://twitter.com/defis_eu/status/1341669925895729152), Copernicus Holiday Special, 23 December 2020.
+
+“[GEE with Keiko](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/),” Scene from Above Podcast, 29 November 2020.
+
+[Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah, Dr. Lola Fatoyinbo & Dr. Keiko Nomura](https://www.youtube.com/watch?v=Tq75sLKkVyQ), Google Geo for Good Summit, 21 October 2020.
 
 "[Space and Satellites Artist Residency – Work in Progress: Cécile Simonis,"](https://www.designinformatics.org/event/space-and-satellites-artist-residency-work-in-progress-cecile-simonis/) Space Technology Thursday Talk, 11 June 2020.
 
