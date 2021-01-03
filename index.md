@@ -12,7 +12,7 @@
 - Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
 - Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/) (November 2020)
 - Became [#SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR (November 2020)
-- Spoke at [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
+- Spoke at [Career Journeys of Women+ in Earth Engine](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ImageOfTheDay?src=hash&amp;ref_src=twsrc%5Etfw">#ImageOfTheDay</a> <a href="https://twitter.com/hashtag/HolidaySpecial?src=hash&amp;ref_src=twsrc%5Etfw">#HolidaySpecial</a>🎄<br><br>Peatlands are core ecosystems for <a href="https://twitter.com/hashtag/biodiversity?src=hash&amp;ref_src=twsrc%5Etfw">#biodiversity</a> <br><br>In May 2019, a <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a> burned for 6⃣ days affecting &gt;5,300 hectares of <a href="https://twitter.com/hashtag/peatlands?src=hash&amp;ref_src=twsrc%5Etfw">#peatlands</a> in 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br><br>⬇️<a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🇪🇺🛰️view of the🔥: the smoke is shown red tones<br><br>Image processed by <a href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw">@Keiko_geo</a> <a href="https://t.co/lbpvb5ISH7">pic.twitter.com/lbpvb5ISH7</a></p>&mdash; 🇪🇺 DG DEFIS #StrongerTogether (@defis_eu) <a href="https://twitter.com/defis_eu/status/1341669925895729152?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -35,7 +35,7 @@
 
 “[GEE with Keiko](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/),” Scene from Above Podcast, 29 November 2020.
 
-[SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of Sar, 20 November 2020.
+[SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR, 20 November 2020.
 
 [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah, Dr. Lola Fatoyinbo & Dr. Keiko Nomura](https://www.youtube.com/watch?v=Tq75sLKkVyQ), Google Geo for Good Summit, 21 October 2020.
 
