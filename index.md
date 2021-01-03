@@ -54,7 +54,7 @@
 “Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
 
 ### Publications
-[Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/), Space Intelligence, 30 July 2020
+[Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/), Space Intelligence, 30 July 2020.
 
 ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b), Medium, 28 Jan 2020.
 
