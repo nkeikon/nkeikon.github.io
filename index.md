@@ -9,9 +9,10 @@
 </script>
 ## News
 ---
-- Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency, (December 2020)
-- Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/), (November 2020)
-- Spoke at [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah](https://www.youtube.com/watch?v=Tq75sLKkVyQ), (October 2020)
+- Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
+- Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/) (November 2020)
+- Became [#SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR (November 2020)
+- Spoke at [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
 - Blogged [Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/) (July 2020)
 - Interview with EO Data Science "[Detecting palm oil plantation land use in Myanmar"](https://newsroom.eodatascience.com/detecting-palm-oil-plantation-land-use-in-myanmar) (May 2020)
 - Experimenting with [GEDI data visualisation](https://nkeikon.github.io/gedi_viz) (Apr 2020)
@@ -38,6 +39,8 @@
 [Image of the Day](https://twitter.com/defis_eu/status/1341669925895729152), Copernicus Holiday Special, 23 December 2020.
 
 “[GEE with Keiko](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/),” Scene from Above Podcast, 29 November 2020.
+
+[SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of Sar, 20 November 2020.
 
 [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah, Dr. Lola Fatoyinbo & Dr. Keiko Nomura](https://www.youtube.com/watch?v=Tq75sLKkVyQ), Google Geo for Good Summit, 21 October 2020.
 
