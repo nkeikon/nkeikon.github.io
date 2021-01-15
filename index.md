@@ -11,6 +11,7 @@
 ---
 - Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
 - Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/) (November 2020)
+- Guest speaker for [GEOMOB](https://thegeomob.com/) (November 2020)
 - Became [#SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR (November 2020)
 - Spoke at [Career Journeys of Women+ in Earth Engine](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
 
@@ -36,6 +37,8 @@
 “[GEE with Keiko](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/),” Scene from Above Podcast, 29 November 2020.
 
 [SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR, 20 November 2020.
+
+[GEOMOB](https://www.youtube.com/watch?v=KvVFUVoH298&list=PL0O40c1c5Xt0SXzuRoDloW0MgA8Zxm65M&index=5), "Something fun with Earth Engine", 17 November 2020.
 
 [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah, Dr. Lola Fatoyinbo & Dr. Keiko Nomura](https://www.youtube.com/watch?v=Tq75sLKkVyQ), Google Geo for Good Summit, 21 October 2020.
 
