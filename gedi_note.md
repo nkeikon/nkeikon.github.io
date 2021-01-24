@@ -22,9 +22,9 @@
 
 ## Timeline
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Annoucement|Keiko observation|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Annoucement|Keiko observation|
 |:-------------------|:---------------|:------|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||Looking forward to level 4 (biomass) products! 
+|||Looking forward to level 4 (biomass) products! 
 | 20 Jan 2021  | 18 months of GEDI data now publicly available |👏👏👏 |
 | 26 Oct 2020  | One full year of GEDI data are now available |👏👏👏 |
 | 30 Sep 2020  | Two more months of GEDI data now available. A total of 10 months of data online|👏👏👏 |
