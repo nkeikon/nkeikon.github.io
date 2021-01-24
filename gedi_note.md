@@ -16,14 +16,14 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: GEDI produces 8 tracks of data. Half of them are by full power lasers. Use the data from these power beams if your area has dense forests. The power beam sensitivities are 2-3% higher than the coverage beam</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299297192805576705?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Power beams = &#39;0101&#39;, &#39;0110&#39;, &#39;1000&#39;, &#39;1011&#39;</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299298177330315264?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-## 
+<br></br>
+ 
 
 ## Timeline
 
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Annoucement|Keiko observation|
-|:-------------|:---------------|:------|
-|||Looking forward to level 4 (biomass) products! 
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Annoucement|Keiko observation|
+|:-------------------|:---------------|:------|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;||Looking forward to level 4 (biomass) products! 
 | 20 Jan 2021  | 18 months of GEDI data now publicly available |👏👏👏 |
 | 26 Oct 2020  | One full year of GEDI data are now available |👏👏👏 |
 | 30 Sep 2020  | Two more months of GEDI data now available. A total of 10 months of data online|👏👏👏 |
