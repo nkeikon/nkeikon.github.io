@@ -16,7 +16,8 @@
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: GEDI produces 8 tracks of data. Half of them are by full power lasers. Use the data from these power beams if your area has dense forests. The power beam sensitivities are 2-3% higher than the coverage beam</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299297192805576705?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Power beams = &#39;0101&#39;, &#39;0110&#39;, &#39;1000&#39;, &#39;1011&#39;</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299298177330315264?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<br></br>
+
+<br/><br/>
  
 
 ## Timeline
@@ -41,4 +42,3 @@ Coming soon
 
 ## Relevant publications
 Coming soon
-
