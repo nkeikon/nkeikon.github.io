@@ -38,7 +38,8 @@
 | 21 Jan 2020  | GEDI: First GEDI data products became available via LPDAAC|Tree height overestimated? See the tip above dated 27 Aug 2020 |
 
 ## Other coding tools
-Coming soon
+- [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
+- [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
 
 ## Relevant publications
 Coming soon
