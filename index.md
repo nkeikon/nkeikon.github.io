@@ -9,6 +9,8 @@
 </script>
 ## News
 ---
+- Summarised GEDI tips and data released to-date ([GEDI tips](gedi_note.md)) (January 2021)
+- Visualised GEDI using Unfolded ([visualisation v2](https://studio.unfolded.ai/public/7d327095-b358-4bcb-a1b0-65304fc818dc))(January 2021)
 - Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
 - Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/) (November 2020)
 - Guest speaker for [GEOMOB](https://thegeomob.com/) (November 2020)
