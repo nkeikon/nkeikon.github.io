@@ -17,10 +17,12 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Power beams = &#39;0101&#39;, &#39;0110&#39;, &#39;1000&#39;, &#39;1011&#39;</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299298177330315264?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+
+
 ## Timeline
 
-| Date         | Annoucement          | Keiko observation |
-|:-------------|:------------------|:------|
+|&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;| Annoucement          | Keiko observation |
+|:-------------|:---------------|:------|
 |||Looking forward to level 4 (biomass) products! 
 | 20 Jan 2021  | 18 months of GEDI data now publicly available |👏👏👏 |
 | 26 Oct 2020  | One full year of GEDI data are now available |👏👏👏 |
@@ -32,7 +34,7 @@
 | 26 Feb 2020  | GEDI: One more month of data became available  |👏👏👏 |
 | 20 Feb 2020  | NASA Earth Data: [GEDI finder web service released](https://lpdaac.usgs.gov/news/release-gedi-finder-web-service/)|Extremely useful! Life saver|
 | 25 Jan 2020  | Space Intelligence: [GEDI viz released on twitter](https://twitter.com/SpaceIntelli/status/1221051568549744642)      |👏👏👏
-| 21 Jan 2020  | GEDI: First GEDI data products became available via LPDAAC|Tree height overestimated? |
+| 21 Jan 2020  | GEDI: First GEDI data products became available via LPDAAC|Tree height overestimated? See the tip above dated 27 Aug 2020 |
 
 ## Other coding tools
 Coming soon
