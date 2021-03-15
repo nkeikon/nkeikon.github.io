@@ -9,6 +9,7 @@
 </script>
 ## News
 ---
+- Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
 - Summarised GEDI tips and data released to-date ([GEDI tips](gedi_note.md)) (January 2021)
 - Visualised GEDI using Unfolded ([visualisation v2](https://studio.unfolded.ai/public/7d327095-b358-4bcb-a1b0-65304fc818dc))(January 2021)
 - Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
@@ -16,6 +17,8 @@
 - Guest speaker for [GEOMOB](https://thegeomob.com/) (November 2020)
 - Became [#SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR (November 2020)
 - Spoke at [Career Journeys of Women+ in Earth Engine](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m so honoured! Thank you so much <a href="https://t.co/PSacuwYc92">https://t.co/PSacuwYc92</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1368983507926650884?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ImageOfTheDay?src=hash&amp;ref_src=twsrc%5Etfw">#ImageOfTheDay</a> <a href="https://twitter.com/hashtag/HolidaySpecial?src=hash&amp;ref_src=twsrc%5Etfw">#HolidaySpecial</a>🎄<br><br>Peatlands are core ecosystems for <a href="https://twitter.com/hashtag/biodiversity?src=hash&amp;ref_src=twsrc%5Etfw">#biodiversity</a> <br><br>In May 2019, a <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a> burned for 6⃣ days affecting &gt;5,300 hectares of <a href="https://twitter.com/hashtag/peatlands?src=hash&amp;ref_src=twsrc%5Etfw">#peatlands</a> in 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br><br>⬇️<a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🇪🇺🛰️view of the🔥: the smoke is shown red tones<br><br>Image processed by <a href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw">@Keiko_geo</a> <a href="https://t.co/lbpvb5ISH7">pic.twitter.com/lbpvb5ISH7</a></p>&mdash; 🇪🇺 DG DEFIS #StrongerTogether (@defis_eu) <a href="https://twitter.com/defis_eu/status/1341669925895729152?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
