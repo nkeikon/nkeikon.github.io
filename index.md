@@ -10,6 +10,7 @@
 ## News
 ---
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
+- Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! 
 - Summarised GEDI tips and data released to-date ([GEDI tips](gedi_note.md)) (January 2021)
 - Visualised GEDI using Unfolded ([visualisation v2](https://studio.unfolded.ai/public/7d327095-b358-4bcb-a1b0-65304fc818dc))(January 2021)
 - Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
