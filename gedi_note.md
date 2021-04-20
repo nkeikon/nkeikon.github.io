@@ -8,23 +8,13 @@
   gtag('config', 'UA-151917115-1');
 </script>
 
-## GEDI tips
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: RH stands for &#39;relative height,&#39; shown in m or cm, calculated at the percentage of cumulative waveform energy. So, RH100 means elev_highestreturn - elev_lowestmode</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1298197311441588224?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: &quot;The lowest selected mode has triggered on noise, thus elev_lowestmode will be below the actual ground surface&quot; (Level 02 User Guide), indicating that RH100 would overestimate the height <a href="https://t.co/cUGSpUfhWv">https://t.co/cUGSpUfhWv</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1298902916946944000?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: GEDI produces 8 tracks of data. Half of them are by full power lasers. Use the data from these power beams if your area has dense forests. The power beam sensitivities are 2-3% higher than the coverage beam</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299297192805576705?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Power beams = &#39;0101&#39;, &#39;0110&#39;, &#39;1000&#39;, &#39;1011&#39;</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299298177330315264?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<br/><br/>
- 
 
 ## Timeline
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Annoucement|Keiko observation|
 |:-------------------|:---------------|:------|
 |||Looking forward to level 4 (biomass) products! 
+| 16 Apr 2021 |[Version 2](https://lpdaac.usgs.gov/news/release-gedi-version-2-data-products/) data released for Level 1B Geolocated Waveform Data, Level 2A Elevation and Height Metrics Data, and Level 2B Canopy Cover and Vertical Profile Metrics Data for April 18, 2019 through October 16, 2019|Improved geolocation, reduced file size, etc.|
 | 18 Mar 2021  | [Level 3 dataset](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1865) now available |👏👏👏 |
 | 20 Jan 2021  | 18 months of GEDI data now publicly available |👏👏👏 |
 | 26 Oct 2020  | One full year of GEDI data are now available |👏👏👏 |
@@ -44,3 +34,16 @@
 
 ## Relevant publications
 Coming soon
+
+## GEDI tips
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: RH stands for &#39;relative height,&#39; shown in m or cm, calculated at the percentage of cumulative waveform energy. So, RH100 means elev_highestreturn - elev_lowestmode</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1298197311441588224?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: &quot;The lowest selected mode has triggered on noise, thus elev_lowestmode will be below the actual ground surface&quot; (Level 02 User Guide), indicating that RH100 would overestimate the height <a href="https://t.co/cUGSpUfhWv">https://t.co/cUGSpUfhWv</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1298902916946944000?ref_src=twsrc%5Etfw">August 27, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: GEDI produces 8 tracks of data. Half of them are by full power lasers. Use the data from these power beams if your area has dense forests. The power beam sensitivities are 2-3% higher than the coverage beam</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299297192805576705?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Power beams = &#39;0101&#39;, &#39;0110&#39;, &#39;1000&#39;, &#39;1011&#39;</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299298177330315264?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<br/><br/>
+ 
+
