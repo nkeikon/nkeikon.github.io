@@ -12,7 +12,7 @@
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
 - Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! 
 - Summarised GEDI tips and data released to-date ([GEDI tips](gedi_note.md)) (January 2021)
-- Visualised GEDI using Unfolded ([visualisation v2](https://studio.unfolded.ai/public/7d327095-b358-4bcb-a1b0-65304fc818dc))(January 2021)
+- Visualised GEDI using Unfolded ([visualisation v2](https://studio.unfolded.ai/public/7d327095-b358-4bcb-a1b0-65304fc818dc)) (January 2021)
 - Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
 - Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/) (November 2020)
 - Guest speaker for [GEOMOB](https://thegeomob.com/) (November 2020)
@@ -20,6 +20,8 @@
 - Spoke at [Career Journeys of Women+ in Earth Engine](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m so honoured! Thank you so much <a href="https://t.co/PSacuwYc92">https://t.co/PSacuwYc92</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1368983507926650884?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GEDI visualisation updated using Unfolded Studio <a href="https://twitter.com/unfoldedinc?ref_src=twsrc%5Etfw">@unfoldedinc</a> <a href="https://t.co/UkOxYWUQie">https://t.co/UkOxYWUQie</a> Now you don&#39;t even have to code to create this map, and satellite imagery basemap is available <a href="https://t.co/Ympn8e92qJ">https://t.co/Ympn8e92qJ</a> Be patient while loading... <a href="https://t.co/P7GN8TPxVp">https://t.co/P7GN8TPxVp</a> <a href="https://t.co/8R2mQqq0oa">pic.twitter.com/8R2mQqq0oa</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1350838669540806657?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/ImageOfTheDay?src=hash&amp;ref_src=twsrc%5Etfw">#ImageOfTheDay</a> <a href="https://twitter.com/hashtag/HolidaySpecial?src=hash&amp;ref_src=twsrc%5Etfw">#HolidaySpecial</a>🎄<br><br>Peatlands are core ecosystems for <a href="https://twitter.com/hashtag/biodiversity?src=hash&amp;ref_src=twsrc%5Etfw">#biodiversity</a> <br><br>In May 2019, a <a href="https://twitter.com/hashtag/wildfire?src=hash&amp;ref_src=twsrc%5Etfw">#wildfire</a> burned for 6⃣ days affecting &gt;5,300 hectares of <a href="https://twitter.com/hashtag/peatlands?src=hash&amp;ref_src=twsrc%5Etfw">#peatlands</a> in 🏴󠁧󠁢󠁳󠁣󠁴󠁿<br><br>⬇️<a href="https://twitter.com/CopernicusEU?ref_src=twsrc%5Etfw">@CopernicusEU</a> <a href="https://twitter.com/hashtag/Sentinel2?src=hash&amp;ref_src=twsrc%5Etfw">#Sentinel2</a> 🇪🇺🛰️view of the🔥: the smoke is shown red tones<br><br>Image processed by <a href="https://twitter.com/Keiko_geo?ref_src=twsrc%5Etfw">@Keiko_geo</a> <a href="https://t.co/lbpvb5ISH7">pic.twitter.com/lbpvb5ISH7</a></p>&mdash; 🇪🇺 DG DEFIS #StrongerTogether (@defis_eu) <a href="https://twitter.com/defis_eu/status/1341669925895729152?ref_src=twsrc%5Etfw">December 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
@@ -33,7 +35,7 @@
 - UNDP Asia-Pacific Regional Center, Thailand 2012-2013
 - <a href="https://www.un-redd.org/single-post/2016/08/30/Breaking-stereotypes-of-REDD-finance-or-%E2%80%98Where-is-the-money%E2%80%99" blank="_blank">UN Environment Asia and the Pacific, Thailand 2014-2016</a>
 - University of Edinburgh 2016-2019 -> [People I worked with and learned from](uoe.md)
-- [Outstanding reviewer](https://publishingsupport.iopscience.iop.org/questions/environmental-research-letters-2018-reviewer-awards/) for Environmental Research Letters, 2018
+- Outstanding [reviewer](https://publishingsupport.iopscience.iop.org/questions/environmental-research-letters-2018-reviewer-awards/) for Environmental Research Letters, 2018
 - <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence Ltd. 2019-</a>
 
 ### Media coverage and engagement
