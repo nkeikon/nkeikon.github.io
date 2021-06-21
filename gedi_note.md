@@ -26,7 +26,7 @@
 | 26 Feb 2020  | GEDI: One more month of data became available  |👏👏👏 |
 | 20 Feb 2020  | NASA Earth Data: [GEDI finder web service released](https://lpdaac.usgs.gov/news/release-gedi-finder-web-service/)|Extremely useful! Life saver|
 | 25 Jan 2020  | Space Intelligence: [GEDI viz released on twitter](https://twitter.com/SpaceIntelli/status/1221051568549744642)      |👏👏👏
-| 21 Jan 2020  | GEDI: First GEDI data products became available via LPDAAC|Tree height overestimated? See the tip above dated 27 Aug 2020 |
+| 21 Jan 2020  | GEDI: First GEDI data products became available via LPDAAC|Tree height overestimated? See the tweet below dated 27 Aug 2020 |
 
 ## Other coding tools
 - [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
