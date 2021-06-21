@@ -33,7 +33,10 @@
 - [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
 
 ## Documentation
+[Global Ecosystem Dynamics Investigation (GEDI) Level 1B User Guide](https://lpdaac.usgs.gov/documents/987/GEDI01B_User_Guide_V2.pdf), version 2, April 2021
 [GLOBAL Ecosystem Dynamics Investigation (GEDI) Level 2 User Guide](https://lpdaac.usgs.gov/documents/986/GEDI02_UserGuide_V2.pdf), version 2, April 2021
+[GLOBAL Ecosystem Dynamics Investigation (GEDI) Level 3 User Guide](https://daac.ornl.gov/GEDI/guides/GEDI_L3_Land_Surface_Metrics.html), Version 1, March 2021
+
 
 ## Relevant publications
 Coming soon
