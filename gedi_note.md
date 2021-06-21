@@ -37,7 +37,7 @@
 
 [Global Ecosystem Dynamics Investigation (GEDI) Level 2 User Guide](https://lpdaac.usgs.gov/documents/986/GEDI02_UserGuide_V2.pdf), version 2, April 2021
 
-[Global Ecosystem Dynamics Investigation (GEDI) Level 3 User Guide](https://daac.ornl.gov/GEDI/guides/GEDI_L3_Land_Surface_Metrics.html), Version 1, March 2021
+[Global Ecosystem Dynamics Investigation (GEDI) Level 3 User Guide](https://daac.ornl.gov/GEDI/guides/GEDI_L3_Land_Surface_Metrics.html), version 1, March 2021
 
 
 ## Relevant publications
