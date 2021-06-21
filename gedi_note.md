@@ -32,6 +32,9 @@
 - [pyGEDI](https://github.com/EduinHSERNA/pyGEDI)
 - [rGEDI](https://github.com/carlos-alberto-silva/rGEDI)
 
+## Documentation
+[GLOBAL Ecosystem Dynamics Investigation (GEDI) Level 2 User Guide](https://lpdaac.usgs.gov/documents/986/GEDI02_UserGuide_V2.pdf), version 2, April 2021
+
 ## Relevant publications
 Coming soon
 
