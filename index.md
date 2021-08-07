@@ -9,6 +9,8 @@
 </script>
 ## News
 ---
+- Joined [Climate Engine](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_introduction-to-climate-engine-on-google-activity-6824323712284663808-cEGg) (August 2021)
+- Featured by [Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn) Thank you! (August 2021)
 - Space Intelligence published the first ever [Scotland-wide high resolution habitat maps](https://www.space-intelligence.com/2021/04/01/weve-just-published-the-first-ever-scotland-wide-high-resolution-habitat-maps-for-free/), for free (April 2021)
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
 - Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! 
@@ -40,6 +42,8 @@
 - <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence Ltd. 2019-</a>
 
 ### Media coverage and engagement
+[Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn), 3 August 2021. 
+
 [Image of the Day](https://twitter.com/defis_eu/status/1341669925895729152), Copernicus Holiday Special, 23 December 2020.
 
 “[GEE with Keiko](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/),” Scene from Above Podcast, 29 November 2020.
