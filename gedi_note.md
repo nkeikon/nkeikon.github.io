@@ -14,6 +14,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Annoucement|Keiko observation|
 |:-------------------|:---------------|:------|
 |||Looking forward to level 4 (biomass) products! 
+| 11 Aug 2021 |[GEDI slack channel](https://t.co/IsjKz2hoDL?amp=1) was created by [@Kate_J_Fuller](https://twitter.com/Kate_J_Fuller) |👏👏👏 |
 | 16 Apr 2021 |[Version 2](https://lpdaac.usgs.gov/news/release-gedi-version-2-data-products/) data released for Level 1B Geolocated Waveform Data, Level 2A Elevation and Height Metrics Data, and Level 2B Canopy Cover and Vertical Profile Metrics Data for April 18, 2019 through October 16, 2019|Improved geolocation, reduced file size, etc.|
 | 18 Mar 2021  | [Level 3 dataset](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1865) now available |👏👏👏 |
 | 20 Jan 2021  | 18 months of GEDI data now publicly available |👏👏👏 |
@@ -39,6 +40,8 @@
 
 [Global Ecosystem Dynamics Investigation (GEDI) Level 3 User Guide](https://daac.ornl.gov/GEDI/guides/GEDI_L3_Land_Surface_Metrics.html), version 1, March 2021
 
+## Other
+[Earthdata Forum - GEDI](https://forum.earthdata.nasa.gov/app.php/tag/GEDI)
 
 ## Relevant publications
 Coming soon
