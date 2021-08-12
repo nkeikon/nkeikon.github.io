@@ -9,7 +9,7 @@
 </script>
 ## News
 ---
-- Joined [Climate Engine](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_introduction-to-climate-engine-on-google-activity-6824323712284663808-cEGg) (August 2021)
+- Joined [Climate Engine](https://www.climateengine.com) (August 2021)
 - Featured by [Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn) Thank you! (August 2021)
 - Space Intelligence published the first ever [Scotland-wide high resolution habitat maps](https://www.space-intelligence.com/2021/04/01/weve-just-published-the-first-ever-scotland-wide-high-resolution-habitat-maps-for-free/), for free (April 2021)
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
