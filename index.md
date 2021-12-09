@@ -9,8 +9,9 @@
 </script>
 ## News
 ---
+- Interviewed for the WIRED artcile ["Missing Forests Are Messing With Climate Targets" ](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter) (October 2021)
 - Joined [Climate Engine](https://www.climateengine.com) (August 2021)
-- Featured by [Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn) Thank you! (August 2021)
+- Featured by [Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn). Thank you! (August 2021)
 - Space Intelligence published the first ever [Scotland-wide high resolution habitat maps](https://www.space-intelligence.com/2021/04/01/weve-just-published-the-first-ever-scotland-wide-high-resolution-habitat-maps-for-free/), for free (April 2021)
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
 - Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! 
@@ -43,11 +44,13 @@
 - <a href="https://www.climateengine.com/" blank="_blank">Climate Engine, 2021-</a>
 
 ### Media coverage and engagement
+WIRED ["Missing Forests Are Messing With Climate Targets"](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter). 30, October 2021
+
 [Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn), 3 August 2021. 
 
 [Image of the Day](https://twitter.com/defis_eu/status/1341669925895729152), Copernicus Holiday Special, 23 December 2020.
 
-“[GEE with Keiko](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/),” Scene from Above Podcast, 29 November 2020.
+["GEE with Keiko"](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/), Scene from Above Podcast, 29 November 2020.
 
 [SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR, 20 November 2020.
 
@@ -55,9 +58,9 @@
 
 [Career Journeys of Women+ in Earth Engine: Abena Asare-Ansah, Dr. Lola Fatoyinbo & Dr. Keiko Nomura](https://www.youtube.com/watch?v=Tq75sLKkVyQ), Google Geo for Good Summit, 21 October 2020.
 
-"[Space and Satellites Artist Residency – Work in Progress: Cécile Simonis,"](https://www.designinformatics.org/event/space-and-satellites-artist-residency-work-in-progress-cecile-simonis/) Space Technology Thursday Talk, 11 June 2020.
+["Space and Satellites Artist Residency – Work in Progress: Cécile Simonis,"](https://www.designinformatics.org/event/space-and-satellites-artist-residency-work-in-progress-cecile-simonis/) Space Technology Thursday Talk, 11 June 2020.
 
-"[Detecting palm oil plantation land use in Myanmar,"](https://newsroom.eodatascience.com/detecting-palm-oil-plantation-land-use-in-myanmar) EO Data Science, May 2020.
+["Detecting palm oil plantation land use in Myanmar,"](https://newsroom.eodatascience.com/detecting-palm-oil-plantation-land-use-in-myanmar) EO Data Science, May 2020.
 
 "Myanmar risks losing forests to oil palm, but there’s time to pivot," Mongabay Environmental News, 13 November. 2019. [https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/.](https://news.mongabay.com/2019/11/myanmar-risks-losing-forests-to-oil-palm-but-theres-time-to-pivot/)
 
