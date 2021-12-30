@@ -43,11 +43,11 @@
 ## Other
 [Earthdata Forum - GEDI](https://forum.earthdata.nasa.gov/app.php/tag/GEDI)
 
-## Relevant publications
-Coming soon
 
 ## GEDI tips
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 41: Test the <a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> test. Due to so many requests, I can&#39;t ignore. But please remember, the dataset is not final... Anyway here is the very introduction of GEDI on EE (or my feedback to the amazing Google Earth Engine team, with many thanks!) <a href="https://t.co/PKZRz2QGdV">pic.twitter.com/PKZRz2QGdV</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1472027184017534979?ref_src=twsrc%5Etfw">December 18, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Google <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip 42 (continued from 41): Test the <a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> test. For those who can&#39;t wait for the official release, this is GEDI intro part 2. <a href="https://twitter.com/hashtag/PowerBeams?src=hash&amp;ref_src=twsrc%5Etfw">#PowerBeams</a>! The last <a href="https://twitter.com/hashtag/EarthEngine?src=hash&amp;ref_src=twsrc%5Etfw">#EarthEngine</a> tip for the year 2021! Thank you everyone, wish you a happy New Year! <a href="https://t.co/ZtcFgxY3OZ">pic.twitter.com/ZtcFgxY3OZ</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1476411257573961729?ref_src=twsrc%5Etfw">December 30, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr"><a href="https://twitter.com/hashtag/GEDI?src=hash&amp;ref_src=twsrc%5Etfw">#GEDI</a> tips: RH stands for &#39;relative height,&#39; shown in m or cm, calculated at the percentage of cumulative waveform energy. So, RH100 means elev_highestreturn - elev_lowestmode</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1298197311441588224?ref_src=twsrc%5Etfw">August 25, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
