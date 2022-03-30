@@ -9,7 +9,7 @@
 </script>
 ## News
 ---
-- Speaker for [Innovation for Climate Services](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_icpac-on-twitter-activity-6897915005895872513-lv92?utm_source=linkedin_share&utm_medium=member_desktop_web) organised by ICPAC (February 2022)
+- Speaker for [Innovation for Climate Services](https://www.linkedin.com/posts/igad-climate-prediction-and-aplication-center-icpac-_innovation-climate-innovation-activity-6899930679342100480-iHOe?utm_source=linkedin_share&utm_medium=member_desktop_web) organised by ICPAC (February 2022)
 - Speaker for [Space & Geospatial](https://twitter.com/sparkgeo/status/1456680207272738816) at KTN / Geospatial Virtual Pavilion for COP26 (November 2021)
 - Speaker for [the Government Education Summit](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_googlegovedusummit-activity-6861764487964319744-5eZX?utm_source=linkedin_share&utm_medium=member_desktop_web) by Google Cloud (November 2021)
 - Interviewed for the WIRED artcile ["Missing Forests Are Messing With Climate Targets" ](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter) (October 2021)
