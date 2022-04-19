@@ -13,6 +13,7 @@
 
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Annoucement|Keiko observation|
 |:-------------------|:---------------|:------|
+| 18 Apr 2022 |[GEDI L4B Gridded Aboveground Biomass Density (Version 2) is available on Earth Engine!](https://developers.google.com/earth-engine/datasets/catalog/LARSE_GEDI_GEDI04_B_002)|👏👏👏👏👏 (That was fast)|
 | 05 Apr 2022 |[GEDI L4B Gridded Aboveground Biomass Density (Version 2) is now available!](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=2017)|👏👏👏👏👏|
 | 07 Mar 2022 |[GEDI L2A Raster Canopy Top Height (Version 2) is available on Earth Engine](https://developers.google.com/earth-engine/datasets/catalog/LARSE_GEDI_GEDI02_A_002_MONTHLY)|👏👏👏👏👏 (Some issues with the shot numbers and delta time)|
 | 19 Aug 2021 |[GEDI L4A Footprint Level Aboveground Biomass Density (Version 1) is now available!](https://daac.ornl.gov/cgi-bin/dsviewer.pl?ds_id=1907)|👏👏👏👏👏|
