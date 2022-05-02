@@ -9,6 +9,7 @@
 </script>
 ## News
 ---
+- Became a [Google Developers Expert (GDE)](https://g.dev/keiko) for Earth Engine! (April 2022)
 - Speaker for [Innovation for Climate Services](https://www.linkedin.com/posts/igad-climate-prediction-and-aplication-center-icpac-_innovation-climate-innovation-activity-6899930679342100480-iHOe?utm_source=linkedin_share&utm_medium=member_desktop_web) organised by ICPAC (February 2022)
 - Speaker for [Space & Geospatial](https://twitter.com/sparkgeo/status/1456680207272738816) at KTN / Geospatial Virtual Pavilion for COP26 (November 2021)
 - Speaker for [the Government Education Summit](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_googlegovedusummit-activity-6861764487964319744-5eZX?utm_source=linkedin_share&utm_medium=member_desktop_web) by Google Cloud (November 2021)
@@ -18,11 +19,7 @@
 - Featured by [Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn). Thank you! (August 2021)
 - Space Intelligence published the first ever [Scotland-wide high resolution habitat maps](https://www.space-intelligence.com/2021/04/01/weve-just-published-the-first-ever-scotland-wide-high-resolution-habitat-maps-for-free/), for free (April 2021)
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
-- Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! 
-- Contributed to [#ImageOfTheDay](https://twitter.com/defis_eu/status/1341669925895729152), Holiday Special, Copernicus, European Space Agency (December 2020)
-- Guest speaker for the [Scene from Above Podcast](https://scenefromabove.podbean.com/e/s8e6-gee-with-keiko/) (November 2020)
-- Became [#SAR_STAR](https://twitter.com/SistersofSAR/status/1329717881769242629), Sisters of SAR (November 2020)
-- Spoke at [Career Journeys of Women+ in Earth Engine](https://www.youtube.com/watch?v=Tq75sLKkVyQ) (October 2020)
+- Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! (March 2021)
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m so honoured! Thank you so much <a href="https://t.co/PSacuwYc92">https://t.co/PSacuwYc92</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1368983507926650884?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
