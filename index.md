@@ -9,6 +9,7 @@
 </script>
 ## News
 ---
+- [Off!Cast Mosquito Forecast](https://off.com/en/mosquitoforecast) was launched by SC Johnson with Google Cloud and Climate Engine (May 2022)
 - Became a [Google Developers Expert (GDE)](https://g.dev/keiko) for Earth Engine! (April 2022)
 - Speaker for [Innovation for Climate Services](https://www.linkedin.com/posts/igad-climate-prediction-and-aplication-center-icpac-_innovation-climate-innovation-activity-6899930679342100480-iHOe?utm_source=linkedin_share&utm_medium=member_desktop_web) organised by ICPAC (February 2022)
 - Speaker for [Space & Geospatial](https://twitter.com/sparkgeo/status/1456680207272738816) at KTN / Geospatial Virtual Pavilion for COP26 (November 2021)
