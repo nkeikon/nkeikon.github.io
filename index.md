@@ -7,6 +7,15 @@
 
   gtag('config', 'UA-151917115-1');
 </script>
+
+<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
+
+<script type="module">
+import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
+
+new cursoreffects.clockCursor();
+</script>
+
 ## News
 ---
 - [Off!Cast Mosquito Forecast](https://off.com/en/mosquitoforecast) was launched by SC Johnson with Google Cloud and Climate Engine (May 2022)
