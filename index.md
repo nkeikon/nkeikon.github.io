@@ -13,7 +13,7 @@
 <script type="module">
 import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
 
-new cursoreffects.clockCursor();
+new cursoreffects.clockCursor({ element: document.querySelector("#clock") })
 </script>
 
 ## News
