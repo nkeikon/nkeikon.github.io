@@ -18,6 +18,9 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 
 ## News
 ---
+- Speaker for [Power of the Pixel panel](https://twitter.com/LadiesOfLandsat/status/1584694502060457985?s=20&t=kj9DOaN9CgqLGzPEEZjKug) at Pecora 2022 (Oct 2022)
+- Climate Engine featured at the [Geo for Good](https://youtube.com/clip/Ugkxqo7sUOz_7ypDgKLVSezE0MNG6z0x3SbQ) conference (Oct 2022) 
+- Speaker for [EO Transformation](https://www.linkedin.com/posts/samapriya_gee-earthengine-eochat-activity-6993227755941244929-Y0Jc?utm_source=share&utm_medium=member_desktop) at Living Planet Conference (May 2022)
 - [Off!Cast Mosquito Forecast](https://off.com/en/mosquitoforecast) was launched by SC Johnson with Google Cloud and Climate Engine (May 2022)
 - Became a [Google Developers Expert (GDE)](https://g.dev/keiko) for Earth Engine! (April 2022)
 - Speaker for [Innovation for Climate Services](https://www.linkedin.com/posts/igad-climate-prediction-and-aplication-center-icpac-_innovation-climate-innovation-activity-6899930679342100480-iHOe?utm_source=linkedin_share&utm_medium=member_desktop_web) organised by ICPAC (February 2022)
