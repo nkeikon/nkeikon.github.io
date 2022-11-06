@@ -16,10 +16,10 @@ import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
 new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 </script>
 
-<a rel="me" href="https://sfba.social/@Keiko_geo">Mastodon</a>
 
 ## News
 ---
+- Exploring <a rel="me" href="https://sfba.social/@Keiko_geo">Mastodon</a>
 - Speaker for [Power of the Pixel panel](https://twitter.com/LadiesOfLandsat/status/1584694502060457985?s=20&t=kj9DOaN9CgqLGzPEEZjKug) at Pecora 2022 (Oct 2022)
 - Climate Engine featured at the [Geo for Good](https://youtube.com/clip/Ugkxqo7sUOz_7ypDgKLVSezE0MNG6z0x3SbQ) conference (Oct 2022) 
 - Speaker for [EO Transformation](https://www.linkedin.com/posts/samapriya_gee-earthengine-eochat-activity-6993227755941244929-Y0Jc?utm_source=share&utm_medium=member_desktop) at Living Planet Conference (May 2022)
