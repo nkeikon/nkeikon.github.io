@@ -19,9 +19,9 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 
 ## News
 ---
-- Exploring <a rel="me" href="https://sfba.social/@Keiko_geo">Mastodon</a>
-- Speaker for [Power of the Pixel panel](https://twitter.com/LadiesOfLandsat/status/1584694502060457985?s=20&t=kj9DOaN9CgqLGzPEEZjKug) at Pecora 2022 (Oct 2022)
-- Climate Engine featured at the [Geo for Good](https://youtube.com/clip/Ugkxqo7sUOz_7ypDgKLVSezE0MNG6z0x3SbQ) conference (Oct 2022) 
+- Exploring <a rel="me" href="https://sfba.social/@Keiko_geo">Mastodon</a> (November 2022)
+- Speaker for [Power of the Pixel panel](https://twitter.com/LadiesOfLandsat/status/1584694502060457985?s=20&t=kj9DOaN9CgqLGzPEEZjKug) at Pecora 2022 (October 2022)
+- Climate Engine featured at the [Geo for Good](https://youtube.com/clip/Ugkxqo7sUOz_7ypDgKLVSezE0MNG6z0x3SbQ) conference (October 2022) 
 - Speaker for [EO Transformation](https://www.linkedin.com/posts/samapriya_gee-earthengine-eochat-activity-6993227755941244929-Y0Jc?utm_source=share&utm_medium=member_desktop) at Living Planet Conference (May 2022)
 - [Off!Cast Mosquito Forecast](https://off.com/en/mosquitoforecast) was launched by SC Johnson with Google Cloud and Climate Engine (May 2022)
 - Became a [Google Developers Expert (GDE)](https://g.dev/keiko) for Earth Engine! (April 2022)
