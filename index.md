@@ -16,6 +16,8 @@ import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
 new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 </script>
 
+<a rel="me" href="https://sfba.social/@Keiko_geo">Mastodon</a>
+
 ## News
 ---
 - Speaker for [Power of the Pixel panel](https://twitter.com/LadiesOfLandsat/status/1584694502060457985?s=20&t=kj9DOaN9CgqLGzPEEZjKug) at Pecora 2022 (Oct 2022)
