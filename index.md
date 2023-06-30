@@ -19,6 +19,8 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 
 ## News
 ---
+- Author-led video tutorial, ["Cloud-based Remote Sensing with Google Earth Engine: Fundamentals and Applications" Chapter F5.1 Raster/Vector Conversions](https://www.eefabook.org/videos.html) (the video is not available yet as of June 2023) (April 2023)
+- Speaker for GEE Nairobi Meet up ["Introduction to Earth Engine"](https://www.linkedin.com/feed/update/urn:li:activity:7047840035894640640/) (April 2023)
 - Exploring <a rel="me" href="https://fediscience.org/@Keiko_geo">Mastodon</a> (November 2022)
 - Speaker for [Power of the Pixel panel](https://twitter.com/LadiesOfLandsat/status/1584694502060457985?s=20&t=kj9DOaN9CgqLGzPEEZjKug) at Pecora 2022 (October 2022)
 - Climate Engine featured at the [Geo for Good](https://youtube.com/clip/Ugkxqo7sUOz_7ypDgKLVSezE0MNG6z0x3SbQ) conference (October 2022) 
@@ -87,6 +89,8 @@ WIRED ["Missing Forests Are Messing With Climate Targets"](https://www.wired.co.
 “Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
 
 ### Publications
+["Cloud-based Remote Sensing with Google Earth Engine: Fundamentals and Applications" Chapter F5.1 Raster/Vector Conversions](https://www.eefabook.org/), 2023
+
 [Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/), Space Intelligence, 30 July 2020.
 
 ["10 tips for becoming an Earth Engine expert"](https://medium.com/google-earth/10-tips-for-becoming-an-earth-engine-expert-b11aad9e598b), Medium, 28 Jan 2020.
