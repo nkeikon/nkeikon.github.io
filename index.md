@@ -33,7 +33,7 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 - Interviewed for the WIRED article ["Missing Forests Are Messing With Climate Targets" ](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter) (October 2021)
 - Speaker for [the 2021 Singapore Geospatial Festival, EarthEngine@SG](http://sc.isprs.org/links/earthenginesg.html) (September 2021)
 - Joined [Climate Engine](https://www.climateengine.com) (August 2021)
-- Featured by [Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn). Thank you! (August 2021)
+- Featured by [Tech Nation](https://technation.io/news/stories-of-exceptional-talent-keiko-uk-visa/). Thank you! (August 2021)
 - Space Intelligence published the first ever [Scotland-wide high resolution habitat maps](https://www.space-intelligence.com/2021/04/01/weve-just-published-the-first-ever-scotland-wide-high-resolution-habitat-maps-for-free/), for free (April 2021)
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
 - Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! (March 2021)
@@ -62,7 +62,7 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 ### Media coverage and engagement
 WIRED ["Missing Forests Are Messing With Climate Targets"](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter). 30, October 2021
 
-[Tech Nation](https://www.linkedin.com/posts/olimonks_this-gave-me-more-confidence-in-what-i-can-activity-6828287333431824384-wQbn), 3 August 2021. 
+[Tech Nation](https://technation.io/news/stories-of-exceptional-talent-keiko-uk-visa/), 3 August 2021. 
 
 [Image of the Day](https://twitter.com/defis_eu/status/1341669925895729152), Copernicus Holiday Special, 23 December 2020.
 
