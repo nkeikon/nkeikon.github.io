@@ -19,7 +19,8 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 
 ## News
 ---
-- Author-led video tutorial, ["Cloud-based Remote Sensing with Google Earth Engine: Fundamentals and Applications" Chapter F5.1 Raster/Vector Conversions](https://www.eefabook.org/videos.html) (the video is not available yet as of June 2023) (April 2023)
+- Climate Engine’s flagship product ‘SpatiaFi’ was selected as Google Cloud’s 2023 Industry Solution Technology Partner of the Year for Sustainability (August 2023)
+- Author-led video tutorial, ["Cloud-based Remote Sensing with Google Earth Engine: Fundamentals and Applications" Chapter F5.1 Raster/Vector Conversions]([https://www.eefabook.org/videos.html](https://youtu.be/sKvLNjFAriE?si=zNNwXdhKhqpvritZ)) (April 2023)
 - Speaker for GEE Nairobi Meet up ["Introduction to Earth Engine"](https://www.linkedin.com/feed/update/urn:li:activity:7047840035894640640/) (April 2023)
 - Exploring <a rel="me" href="https://fediscience.org/@Keiko_geo">Mastodon</a> (November 2022)
 - Speaker for [Power of the Pixel panel](https://twitter.com/LadiesOfLandsat/status/1584694502060457985?s=20&t=kj9DOaN9CgqLGzPEEZjKug) at Pecora 2022 (October 2022)
@@ -29,7 +30,6 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 - Became a [Google Developers Expert (GDE)](https://g.dev/keiko) for Earth Engine! (April 2022)
 - Speaker for [Innovation for Climate Services](https://www.linkedin.com/posts/igad-climate-prediction-and-aplication-center-icpac-_innovation-climate-innovation-activity-6899930679342100480-iHOe?utm_source=linkedin_share&utm_medium=member_desktop_web) organised by ICPAC (February 2022)
 - Speaker for [Space & Geospatial](https://twitter.com/sparkgeo/status/1456680207272738816) at KTN / Geospatial Virtual Pavilion for COP26 (November 2021)
-- Speaker for [the Government Education Summit](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_googlegovedusummit-activity-6861764487964319744-5eZX?utm_source=linkedin_share&utm_medium=member_desktop_web) by Google Cloud (November 2021)
 - Interviewed for the WIRED article ["Missing Forests Are Messing With Climate Targets" ](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter) (October 2021)
 - Speaker for [the 2021 Singapore Geospatial Festival, EarthEngine@SG](http://sc.isprs.org/links/earthenginesg.html) (September 2021)
 - Joined [Climate Engine](https://www.climateengine.com) (August 2021)
