@@ -19,7 +19,7 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 
 ## News
 ---
-- Climate Engine’s flagship product ‘SpatiaFi’ was selected as Google Cloud’s 2023 Industry Solution Technology Partner of the Year for Sustainability (August 2023)
+- Climate Engine’s flagship product ‘SpatiaFi’ was selected as [Google Cloud’s 2023 Industry Solution Technology Partner of the Year](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_spatiafi-googlecloudpartner-googlecloudnext23-activity-7105372886642696192-KC7Y?utm_source=share&utm_medium=member_desktop) for Sustainability (August 2023)
 - Author-led video tutorial, ["Cloud-based Remote Sensing with Google Earth Engine: Fundamentals and Applications"](https://www.eefabook.org/videos.html), [Chapter F5.1 Raster/Vector Conversions](https://youtu.be/sKvLNjFAriE?si=zNNwXdhKhqpvritZ) (April 2023)
 - Speaker for GEE Nairobi Meet up ["Introduction to Earth Engine"](https://www.linkedin.com/feed/update/urn:li:activity:7047840035894640640/) (April 2023)
 - Exploring <a rel="me" href="https://fediscience.org/@Keiko_geo">Mastodon</a> (November 2022)
