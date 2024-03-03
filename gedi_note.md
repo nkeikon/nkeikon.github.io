@@ -60,6 +60,9 @@
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Power beams = &#39;0101&#39;, &#39;0110&#39;, &#39;1000&#39;, &#39;1011&#39;</p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1299298177330315264?ref_src=twsrc%5Etfw">August 28, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">GEDI visualisation updated using Unfolded Studio <a href="https://twitter.com/unfoldedinc?ref_src=twsrc%5Etfw">@unfoldedinc</a> <a href="https://t.co/UkOxYWUQie">https://t.co/UkOxYWUQie</a> Now you don&#39;t even have to code to create this map, and satellite imagery basemap is available <a href="https://t.co/Ympn8e92qJ">https://t.co/Ympn8e92qJ</a> Be patient while loading... <a href="https://t.co/P7GN8TPxVp">https://t.co/P7GN8TPxVp</a> <a href="https://t.co/8R2mQqq0oa">pic.twitter.com/8R2mQqq0oa</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1350838669540806657?ref_src=twsrc%5Etfw">January 17, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
 <br/><br/>
  
 
