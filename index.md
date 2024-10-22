@@ -58,8 +58,7 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 - <a href="https://www.space-intelligence.com/" blank="_blank">Space Intelligence Ltd., 2019-2021</a>
 - <a href="https://www.climateengine.com/" blank="_blank">Climate Engine, 2021-2024</a>
 - <a href='https://developers.google.com/community/experts/directory'>Google Developer Expert (GDE) for Earth Engine, 2022-
-- <a href="https://www.nasa.gov/nasa-earth-exchange-nex/" blank="_blank">NASA Ames Research Center, Earth eXchange (NEX), 2024-</a>
-</a>
+- <a href="https://www.nasa.gov/nasa-earth-exchange-nex/" blank="_blank">NASA Ames Research Center, Earth eXchange (NEX), 2024- </a>
 
 ### Media coverage and engagement
 WIRED ["Missing Forests Are Messing With Climate Targets"](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter). 30, October 2021
