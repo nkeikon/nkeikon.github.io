@@ -19,6 +19,7 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 
 ## News
 ---
+- ECOSTRESS imagery I produced over the Dutch Slough Tidal Marsh Restoration Project was selected in Featured Image Highlights [(See the original post)](https://www.linkedin.com/feed/update/urn:li:activity:7374935564229279744/) (October 2025).
 - Joined the NASA Earth eXchange [(NEX)](https://www.nasa.gov/nasa-earth-exchange-nex/nex-team/) (September, 2024)
 - Climate Engine collaborates with Dun & Bradstreet to launch [Climate Risk Insights](https://investor.dnb.com/news/news-details/2023/Dun--Bradstreet-and-Climate-Engine-Collaborate-to-Provide-Unique-Visibility-into-Climate-Related-Business-Risks/default.aspx) for businesses (December 2023)
 - Climate Engine’s flagship product ‘SpatiaFi’ was selected as [Google Cloud’s 2023 Industry Solution Technology Partner of the Year](https://www.linkedin.com/posts/keiko-nomura-phd-0231891_spatiafi-googlecloudpartner-googlecloudnext23-activity-7105372886642696192-KC7Y?utm_source=share&utm_medium=member_desktop) for Sustainability (August 2023)
@@ -39,6 +40,8 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 - Space Intelligence published the first ever [Scotland-wide high resolution habitat maps](https://www.space-intelligence.com/2021/04/01/weve-just-published-the-first-ever-scotland-wide-high-resolution-habitat-maps-for-free/), for free (April 2021)
 - Selected among [15 leading women](https://medium.com/radiant-earth-insights/15-leading-women-in-ml4eo-86ce9f660626) in Machine Learning for Earth Observation 2021 by [Radiant Earth Foundation](https://www.radiant.earth/)! (March 2021)  
 - Happy Women's History Month! [Ali Harford](https://twitter.com/aliharford) @MapDotCom selected [an amazing group of women](https://www.maps.com/blogs/journeys/five-women-geospatial-industry) and I got to be part of! (March 2021)
+
+<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7354923700657274882?collapsed=1" height="264" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I’m so honoured! Thank you so much <a href="https://t.co/PSacuwYc92">https://t.co/PSacuwYc92</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1368983507926650884?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
