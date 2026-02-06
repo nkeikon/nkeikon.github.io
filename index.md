@@ -6,10 +6,8 @@ title: Keiko Nomura - Earth System Scientist
 <script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
 <script type="module">
   import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
-  new cursoreffects.rainbowCursor({ element: document.querySelector("body") })
+  new cursoreffects.rainbowCursor();
 </script>
-
-<div id="rainbow">
 
 Earth system scientist. From Kyoto 🇯🇵, started coding in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿, now based in 🌉 California.
 
@@ -38,8 +36,8 @@ Earth system scientist. From Kyoto 🇯🇵, started coding in Edinburgh 🏴�
 - **Selected among 15 leading women in Machine Learning** for Earth Observation 2021 by Radiant Earth Foundation! (March 2021)
 - **Happy Women's History Month!** Ali Harford @MapDotCom selected an amazing group of women and I got to be part of! (March 2021)
 
-<div class="social-embeds">
-  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:7354923700657274882" height="264" width="504" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
+<div style="margin: 20px 0;">
+  <iframe src="https://www.linkedin.com/embed/feed/update/urn:li:share:6774702853557559296" height="555" width="100%" frameborder="0" allowfullscreen="" title="Embedded post"></iframe>
 </div>
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">I&#39;m so honoured! Thank you so much <a href="https://t.co/PSacuwYc92">https://t.co/PSacuwYc92</a></p>&mdash; Keiko (@Keiko_geo) <a href="https://twitter.com/Keiko_geo/status/1368863109693501442?ref_src=twsrc%5Etfw">March 8, 2021</a></blockquote>
@@ -107,5 +105,3 @@ Lightweight command line viewers for geospatial data.
   - [FAQ about the paper](https://nkeikon.users.earthengine.app/view/faq-missed-c-erl)
   - [Code](https://github.com/nkeikon/missed-c-erl)
 - **Nomura, K., & Mitchard, E. (2018).** More Than Meets the Eye: Using Sentinel-2 to Map Small Plantations in Complex Forest Landscapes. *Remote Sensing*, 10(11), 1693.
-
-</div>
