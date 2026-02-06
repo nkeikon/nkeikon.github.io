@@ -45,9 +45,6 @@ Earth system scientist. From Kyoto 🇯🇵, started coding in Edinburgh 🏴�
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you need a pick-me-up from a mid-week slump, I highly recommend revisiting this 👇 inspiring panel from <a href="https://twitter.com/geospatialwomen?ref_src=twsrc%5Etfw">@geospatialwomen</a>. Great advice, motivation, and a diversity of paths and experiences among some exemplary women in geospatial tech! <a href="https://t.co/HEUvdZhgep">https://t.co/HEUvdZhgep</a> <a href="https://t.co/xijCHUQRz9">pic.twitter.com/xijCHUQRz9</a></p>&mdash; Kelsey E. Herndon (@keherndon) <a href="https://twitter.com/keherndon/status/1326554791762255875?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-
----
-
 ## About me
 
 - From Kyoto, Japan
@@ -101,7 +98,7 @@ WIRED ["Missing Forests Are Messing With Climate Targets"](https://www.wired.co.
 
 “Brazil to Receive First-Ever Results-Based REDD+ Payment, but Concerns Remain.” Mongabay Environmental News, 1 March. 2019. [https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/.](https://news.mongabay.com/2019/03/brazil-to-receive-first-ever-results-based-redd-payment-but-concerns-remain/)
 
-### Publications
+## Publications
 ["Cloud-based Remote Sensing with Google Earth Engine: Fundamentals and Applications" Chapter F5.1 Raster/Vector Conversions](https://www.eefabook.org/), 2023
 
 [Did the Covid-19 lockdown really boost bees and wildflowers in Scotland?](https://www.space-intelligence.com/2020/07/30/did-the-covid-19-lockdown-really-boost-bees-and-wildflowers-in-scotland/), Space Intelligence, 30 July 2020.
