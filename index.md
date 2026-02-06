@@ -9,7 +9,7 @@ title: Keiko Nomura - Earth System Scientist
   new cursoreffects.rainbowCursor();
 </script>
 
-Earth system scientist. From Kyoto 🇯🇵, started coding in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿, now based in 🌉 California.
+Earth system scientist. Born in Shikoku 🇯🇵, grew up in Kyoto, studied in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿, now based in 🌉 California.
 
 ## News
 
