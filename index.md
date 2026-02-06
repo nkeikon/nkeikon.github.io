@@ -61,11 +61,9 @@ Earth system scientist. From Kyoto 🇯🇵, started coding in Edinburgh 🏴�
 ## Tools I developed
 
 Lightweight command line viewers for geospatial data.
-- **viewtif** — rasters
-- **viewgeom** — vectors
-- **viewinline** — inline terminal preview
- 
-**Code:** [https://github.com/nkeikon](https://github.com/nkeikon)
+- **[viewtif](https://github.com/nkeikon/tifviewer)** — rasters
+- **[viewgeom](https://github.com/nkeikon/geomviewer)** — vectors
+- **[viewinline](https://github.com/nkeikon/inlineviewer)** — inline terminal preview
   
 **Demos:** [YouTube Playlist](https://www.youtube.com/watch?v=WXGoqKSUsx0&list=PLP9MNCMgJIHj6FvahJ6Tembp1rCyhLtR4&pp=sAgC)
 
