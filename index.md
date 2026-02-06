@@ -16,6 +16,8 @@ import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
 new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 </script>
 
+*Earth system scientist. From Kyoto 🇯🇵, started coding in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿, now based in 🌉 California.*
+---
 
 ## News
 ---
@@ -50,8 +52,6 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">If you need a pick-me-up from a mid-week slump, I highly recommend revisiting this 👇 inspiring panel from <a href="https://twitter.com/geospatialwomen?ref_src=twsrc%5Etfw">@geospatialwomen</a>. Great advice, motivation, and a diversity of paths and experiences among some exemplary women in geospatial tech! <a href="https://t.co/HEUvdZhgep">https://t.co/HEUvdZhgep</a> <a href="https://t.co/xijCHUQRz9">pic.twitter.com/xijCHUQRz9</a></p>&mdash; Kelsey E. Herndon (@keherndon) <a href="https://twitter.com/keherndon/status/1326554791762255875?ref_src=twsrc%5Etfw">November 11, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
----
-
 ### About me
 - From Kyoto, Japan
 - UNDP Indonesia 2011-2012
@@ -63,6 +63,19 @@ new cursoreffects.rainbowCursor({ element: document.querySelector("#rainbow") })
 - <a href="https://www.climateengine.com/" blank="_blank">Climate Engine, 2021-2024</a>
 - <a href='https://developers.google.com/community/experts/directory'>Google Developer Expert (GDE) for Earth Engine, 2022-
 - <a href="https://www.nasa.gov/nasa-earth-exchange-nex/" blank="_blank">NASA Ames Research Center, Earth eXchange (NEX), 2024- </a>
+
+---
+### Tools I developed
+
+Lightweight command line viewers for geospatial data.
+
+- viewtif — rasters  
+- viewgeom — vectors  
+- viewinline — inline terminal preview  
+
+Code: https://github.com/nkeikon 
+
+Demos: https://www.youtube.com/watch?v=WXGoqKSUsx0&list=PLP9MNCMgJIHj6FvahJ6Tembp1rCyhLtR4&pp=sAgC
 
 ### Media coverage and engagement
 WIRED ["Missing Forests Are Messing With Climate Targets"](https://www.wired.co.uk/article/forest-counting-climate-change?utm_medium=social&utm_source=twitter&utm_social-type=owned&utm_brand=wired&mbid=social_twitter). 30, October 2021
