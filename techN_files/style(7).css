@@ -1,0 +1,49 @@
+/**
+ * ----------------------------------------------------------------------------
+ * Frontend CSS
+ * ----------------------------------------------------------------------------
+ */
+
+.wp-block-technation-tnr2021-stat-block {
+  background-repeat: no-repeat;
+  background-size: 120px;
+  background-position: right top;
+  margin-bottom: 40px;
+}
+
+.wp-block-technation-tnr2021-stat-block h3 {
+  padding-top: 115px;
+  font-family: "EuclidCircularB-Medium";
+}
+
+@media (min-width: 650px) {
+  .wp-block-technation-tnr2021-stat-block h3 {
+    max-width: 80%;
+    padding-top: 100px;
+  }
+
+  .wp-block-technation-tnr2021-stat-block {
+    background-size: 150px;
+  }
+}
+
+/*
+     FILE ARCHIVED ON 18:59:20 Nov 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:44:26 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.998
+  exclusion.robots: 0.04
+  exclusion.robots.policy: 0.025
+  esindex: 0.013
+  cdx.remote: 6.229
+  LoadShardBlock: 63.368 (3)
+  PetaboxLoader3.datanode: 72.301 (4)
+  load_resource: 76.018
+  PetaboxLoader3.resolve: 27.971
+*/

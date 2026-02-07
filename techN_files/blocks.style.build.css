@@ -1,0 +1,22 @@
+.wp-block-tn-bod--tn-modal-block,.tn-bod-block-close-btn{position:absolute;top:10px;right:10px}.wp-block-tn-bod--tn-modal-block.align-center,.tn-bod-block-close-btn.align-center{text-align:center}.wp-block-tn-bod--tn-modal-block.align-left,.tn-bod-block-close-btn.align-left{text-align:left}.wp-block-tn-bod--tn-modal-block.align-right,.tn-bod-block-close-btn.align-right{text-align:right}.wp-block-tn-bod--tn-modal-block .tn-bod-btn,.tn-bod-block-close-btn .tn-bod-btn{display:inline-block;vertical-align:top;line-height:1.5;padding:8px 20px;margin:4px 0;border-radius:3px;background-color:rgba(0,0,0,0.1);cursor:pointer}.tn-bod-block-popup-overlay,.tn-bod-block-popup-wrap{position:fixed;display:none;top:0;left:0;width:100%}.tn-bod-block-popup-overlay{z-index:10001;height:100%;-webkit-transition:opacity 0.3s;-o-transition:opacity 0.3s;transition:opacity 0.3s;opacity:0}.tn-bod-block-popup-overlay.active{opacity:1}.tn-bod-block-popup-wrap{z-index:10002}.tn-bod-block-popup-wrap.active{opacity:1}.tn-bod-block-popup-wrap.active .tn-bod-block-popup-closer{opacity:1}.tn-bod-block-popup-wrap .tn-bod-block-popup{position:fixed;top:50%;left:50%;-webkit-transform:translate(-50%, -50%);-ms-transform:translate(-50%, -50%);transform:translate(-50%, -50%);padding:30px;border-radius:10px;max-width:100%;max-height:100%;overflow:auto}.tn-bod-block-popup-wrap .tn-bod-block-popup.size-s{width:400px}.tn-bod-block-popup-wrap .tn-bod-block-popup.size-m{width:600px}.tn-bod-block-popup-wrap .tn-bod-block-popup.size-l{width:800px}.tn-bod-block-popup-wrap .tn-bod-block-popup.size-xl{width:1000px}.tn-bod-block-popup-wrap .tn-bod-block-popup.size-f{width:100%}.tn-bod-block-popup-wrap .tn-bod-block-popup .tn-bod-modal-title h2{margin:0;clear:none}.tn-bod-block-popup-wrap .tn-bod-block-popup-closer{position:fixed;top:0;right:0;text-align:center;font-weight:normal;line-height:48px;height:48px;width:48px;color:black;-webkit-transition:opacity 0.3s;-o-transition:opacity 0.3s;transition:opacity 0.3s;opacity:0;background-color:rgba(255,255,255,0.2)}.tn-bod-block-popup-wrap .tn-bod-block-popup-closer:before{content:'\00D7';font-size:48px}.tn-bod-block-popup-wrap .tn-bod-block-popup-closer:hover{cursor:pointer}.tn-bod-block-popup-wrap button.tn-bod-block-title-closer{float:right;line-height:1;padding:6px;margin:0;border:none;outline:none}.tn-bod-block-popup-wrap button.tn-bod-block-title-closer:hover{background-color:transparent;color:black;border:none;padding:6px}.tn-bod-block-popup-wrap button.tn-bod-block-title-closer:active{background-color:transparent;color:black;border:none}.tn-bod-block-popup-wrap button.tn-bod-block-title-closer:not(:hover):not(:active){background-color:transparent;color:black;border:none}
+
+/*
+     FILE ARCHIVED ON 18:59:20 Nov 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:44:26 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.121
+  exclusion.robots: 0.044
+  exclusion.robots.policy: 0.027
+  esindex: 0.014
+  cdx.remote: 129.428
+  LoadShardBlock: 119.513 (3)
+  PetaboxLoader3.datanode: 92.459 (4)
+  PetaboxLoader3.resolve: 116.623 (2)
+  load_resource: 94.231
+*/

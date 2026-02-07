@@ -1,0 +1,382 @@
+/**
+ * ----------------------------------------------------------------------------
+ * Frontend CSS
+ * ----------------------------------------------------------------------------
+ */
+
+/******************************************************/
+/* BORDER AND MAIN IMAGES */
+
+.wp-block-technation-case-study-block .casestudy-container {
+  border-radius: 2em;
+  border-width: 5px;
+  border-style: solid;
+  padding: 30px;
+}
+
+.wp-block-technation-case-study-block .casestudy-corner-and-logo-image {
+  background-repeat: no-repeat, no-repeat;
+  background-position: right top, right 20px top 220px;
+  background-size: 200px, 100px;
+}
+
+.wp-block-technation-case-study-block .casestudy-corner-image-only {
+  background-repeat: no-repeat;
+  background-position: right top;
+  background-size: 200px;
+}
+
+.wp-block-technation-case-study-block .casestudy-logo-image-only {
+  background-repeat: no-repeat;
+  background-position: right 50px top 30px;
+  background-size: 100px;
+}
+
+/******************************************************/
+/* TOP SECTION FONT SIZING AND SPACING */
+
+.wp-block-technation-case-study-block .casestudy-title {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 1.3em !important;
+}
+
+.wp-block-technation-case-study-block .casestudy-subtitle {
+  margin-top: 0px;
+  font-size: 2.5em !important;
+  font-family: "EuclidCircularB-Medium";
+  margin-bottom: 20px;
+}
+
+.wp-block-technation-case-study-block
+  .casestudy-corner-and-logo-image
+  .casestudy-subtitle,
+.wp-block-technation-case-study-block
+  .casestudy-corner-image-only
+  .casestudy-subtitle {
+  max-width: calc(100% - 180px);
+}
+
+.wp-block-technation-case-study-block .casestudy-company {
+  margin-top: 0px;
+  font-size: 1.3em !important;
+}
+
+.wp-block-technation-case-study-block .casestudy-name {
+  margin-top: 0px;
+  margin-bottom: 0px;
+  font-size: 1.3em !important;
+  font-family: "EuclidCircularB-Bold";
+}
+
+/******************************************************/
+/* TOP SECTION SCREEN WIDTH RESPONSIVENESS */
+
+@media (min-width: 551px) and (max-width: 991px) {
+  .wp-block-technation-case-study-block .casestudy-corner-and-logo-image {
+    background-size: 150px, 75px;
+    background-position: right top, right 10px top 170px;
+  }
+
+  .wp-block-technation-case-study-block .casestudy-corner-image-only {
+    background-size: 150px;
+    background-position: right top;
+  }
+
+  .wp-block-technation-case-study-block .casestudy-logo-image-only {
+    background-size: 75px;
+    background-position: right 10px top 170px;
+  }
+
+  .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image
+    .casestudy-subtitle,
+  .wp-block-technation-case-study-block
+    .casestudy-corner-image-only
+    .casestudy-subtitle {
+    max-width: calc(100% - 130px);
+  }
+}
+
+@media (max-width: 550px) {
+  .wp-block-technation-case-study-block .casestudy-corner-and-logo-image {
+    background-size: 120px, 60px;
+    background-position: right top, right 10px top 130px;
+  }
+
+  .wp-block-technation-case-study-block .casestudy-corner-image-only {
+    background-size: 120px;
+    background-position: right top;
+  }
+
+  .wp-block-technation-case-study-block .casestudy-logo-image-only {
+    background-size: 60px;
+    background-position: right 10px top 130px;
+  }
+
+  .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image
+    .casestudy-subtitle,
+  .wp-block-technation-case-study-block
+    .casestudy-corner-image-only
+    .casestudy-subtitle {
+    max-width: calc(100% - 90px);
+  }
+
+  .wp-block-technation-case-study-block .casestudy-title {
+    font-size: 1em !important;
+  }
+
+  .wp-block-technation-case-study-block .casestudy-subtitle {
+    font-size: 1.5em !important;
+  }
+
+  .wp-block-technation-case-study-block .casestudy-company {
+    font-size: 1em !important;
+  }
+
+  .wp-block-technation-case-study-block .casestudy-name {
+    font-size: 1em !important;
+    max-width: 70%;
+  }
+}
+
+/* **************************************** */
+/* TNR2021 Template CASE STUDY BLOCK STYLE OVERRIDES */
+
+/* Needed due to side navigation */
+
+#report-light-main
+  .wp-block-technation-case-study-block
+  .casestudy-corner-and-logo-image {
+  background-position: right -19px top -19px, right 20px top 220px;
+  /* background-size: 200px */
+}
+
+#report-light-main
+  .wp-block-technation-case-study-block
+  .casestudy-corner-image-only {
+  background-position: right -19px top -19px;
+}
+
+@media (max-width: 550px) {
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image {
+    background-position: right -9px top -9px, right 10px top 130px;
+  }
+
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-image-only {
+    background-position: right -9px top -9px;
+  }
+}
+
+@media (min-width: 551px) and (max-width: 991px) {
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image {
+    background-position: right -13px top -13px, right 10px top 170px;
+  }
+
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-image-only {
+    background-position: right -13px top -13px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image {
+    background-size: 175px, 100px;
+    background-position: right -15px top -15px, right 10px top 195px;
+  }
+
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-image-only {
+    background-size: 175px;
+    background-position: right -15px top -15px;
+  }
+
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-logo-image-only {
+    background-size: 100px;
+    background-position: right 10px top 195px;
+  }
+
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image
+    .casestudy-subtitle,
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-image-only
+    .casestudy-subtitle {
+    max-width: calc(100% - 150px);
+  }
+
+  #report-light-main
+    .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image
+    .casestudy-contents {
+    width: calc(100% - 75px);
+  }
+
+  #report-light-main .wp-block-technation-case-study-block .casestudy-company {
+    max-width: 70%;
+  }
+
+  #report-light-main .wp-block-technation-case-study-block .casestudy-name {
+    max-width: 70%;
+  }
+}
+
+/* Background colour for "Comment" blocks */
+.wp-block-technation-case-study-block.case-study-comment-tnr2021
+  .casestudy-container {
+  background-color: #b3c6ec;
+}
+
+/******************************************************/
+/* CONTENT PADDING IF TWO IMAGES */
+
+.wp-block-technation-case-study-block
+  .casestudy-corner-and-logo-image
+  .casestudy-contents {
+  width: calc(100% - 100px);
+}
+
+@media (min-width: 551px) and (max-width: 991px) {
+  .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image
+    .casestudy-contents {
+    width: calc(100% - 75px);
+  }
+}
+
+@media (max-width: 550px) {
+  .wp-block-technation-case-study-block
+    .casestudy-corner-and-logo-image
+    .casestudy-contents {
+    width: 100%;
+  }
+}
+
+/******************************************************/
+/* READ MORE BUTTON HIDE (EXPAND SHORTCODE) */
+
+.wp-block-technation-case-study-block .expandable-button-container-div {
+  display: none;
+  margin-bottom: 0;
+  padding-top: 0;
+}
+
+/******************************************************/
+/* CLICK FOR MORE TEXT AND ICON */
+.casestudy-showmore-container {
+  height: 80px;
+  position: relative;
+  top: -50px;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+/* Text placeholder */
+.casestudy-clickmore-textcontainer {
+  height: 20px;
+  margin: 0;
+  padding-top: 10px;
+}
+
+.casestudy-clickmore-textcontainer p {
+  text-align: center;
+  font-size: 0.7em !important;
+  margin: 0;
+}
+
+/* Chevrons */
+.casestudy-showmore-container .casestudy-chevron {
+  height: 40px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 40px;
+  position: relative;
+  top: 10px;
+}
+
+.chevron-powderblue {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-PowderBlue.svg");
+}
+
+.chevron-aqua {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-Aqua.svg");
+}
+
+.chevron-lightteal {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-LightTeal.svg");
+}
+
+.chevron-midteal {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-MidTeal.svg");
+}
+
+.chevron-orange {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-Orange.svg");
+}
+
+.chevron-richteal {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-RichTeal.svg");
+}
+
+.chevron-tnwhite {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-TNWhite.svg");
+}
+
+.chevron-teal {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-Teal.svg");
+}
+
+/* Special style for TNR2021 Comment blocks */
+.wp-block-technation-case-study-block.case-study-comment-tnr2021
+  .chevron-richteal {
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-case-study-block/block/case-study/Chevron-RichTeal-tnr2021.svg");
+}
+.casestudy-chevron.open {
+  transform: rotate(180deg);
+}
+
+/******************************************************/
+/* OVERRIDES FOR CAROUSEL BLOCK */
+
+/* Margin so prev/next arrows don't hit border */
+.wp-block-technation-case-study-block .wp-block-cb-carousel {
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+/*
+     FILE ARCHIVED ON 18:59:20 Nov 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:44:26 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.962
+  exclusion.robots: 0.039
+  exclusion.robots.policy: 0.025
+  esindex: 0.013
+  cdx.remote: 27.08
+  LoadShardBlock: 166.818 (3)
+  PetaboxLoader3.datanode: 178.54 (4)
+  load_resource: 43.967
+  PetaboxLoader3.resolve: 29.319
+*/

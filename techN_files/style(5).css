@@ -1,0 +1,69 @@
+/**
+ * ----------------------------------------------------------------------------
+ * Frontend CSS
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-technation-tnr2019-section-header-block {
+  text-align: center;
+  min-height: 300px;
+  background-position: 50% 50%;
+  background-size: cover;
+  padding: 75px 50px;
+}
+.wp-block-technation-tnr2019-section-header-block h2 {
+  color: inherit !important;
+  margin: 0 auto 0.5em auto !important;
+  max-width: 900px;
+  font-size: 4em !important;
+  line-height: 1.125em !important;
+}
+.wp-block-technation-tnr2019-section-header-block p {
+  font-size: 40px;
+  line-height: 50px;
+  margin: 0 auto !important;
+  max-width: 900px;
+}
+.wp-block-technation-tnr2019-section-header-block .header-block-content {
+  border-style: solid;
+  border-left-width: 0;
+  border-right-width: 0;
+  border-top-width: 2px;
+  border-bottom-width: 2px;
+  padding: 50px 50px;
+}
+
+@media (max-width: 992px) {
+  .wp-block-technation-tnr2019-section-header-block h2 {
+    font-size: 2em !important;
+  }
+  .wp-block-technation-tnr2019-section-header-block {
+    padding: 50px 30px;
+  }
+  .wp-block-technation-tnr2019-section-header-block .header-block-content {
+    padding: 50px 0;
+  }
+  .wp-block-technation-tnr2019-section-header-block p {
+    font-size: 22px;
+    line-height: 1.2em;
+  }
+}
+
+/*
+     FILE ARCHIVED ON 18:59:20 Nov 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:44:26 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.855
+  exclusion.robots: 0.039
+  exclusion.robots.policy: 0.024
+  esindex: 0.012
+  cdx.remote: 10.847
+  LoadShardBlock: 67.743 (3)
+  PetaboxLoader3.datanode: 78.429 (4)
+  load_resource: 16.305
+*/

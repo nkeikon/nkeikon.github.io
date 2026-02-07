@@ -1,0 +1,52 @@
+/**
+ * ----------------------------------------------------------------------------
+ * Frontend CSS
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-technation-stat-block {
+  text-align: center;
+  padding: 20px 10px;
+  background-color: rgba(255, 255, 255, 0.2);
+  margin-bottom: 10px;
+}
+.wp-block-technation-stat-block strong {
+  font-size: 70px;
+  line-height: 90px;
+  display: block;
+  font-weight: 400;
+}
+@media (max-width: 1200px) {
+  .wp-block-technation-stat-block strong {
+    font-size: 60px;
+    line-height: 80px;
+    display: block;
+    font-weight: 400;
+  }
+}
+.wp-block-technation-stat-block small {
+  font-size: 24px;
+  line-height: 30px;
+  display: block;
+  margin: 0;
+}
+
+/*
+     FILE ARCHIVED ON 18:59:20 Nov 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:44:26 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.933
+  exclusion.robots: 0.041
+  exclusion.robots.policy: 0.026
+  esindex: 0.014
+  cdx.remote: 7.777
+  LoadShardBlock: 73.735 (3)
+  PetaboxLoader3.datanode: 61.378 (4)
+  PetaboxLoader3.resolve: 48.57 (2)
+  load_resource: 77.524
+*/

@@ -1,0 +1,59 @@
+/**
+ * ----------------------------------------------------------------------------
+ * Frontend CSS
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-technation-tnr2019-stat-block {
+  text-align: left;
+  padding: 20px 0 20px 30px;
+  margin-bottom: 10px;
+  background-image: url("/web/20221118185920im_/https://technationio.wpenginepowered.com/wp-content/plugins/technation-tnr2019-stat-block/block/stat/chevron-right-orange.svg");
+  background-repeat: no-repeat;
+  background-size: 20px;
+  background-position: 0 37px;
+}
+.wp-block-technation-tnr2019-stat-block strong {
+  font-size: 50px;
+  color: #00b3a9;
+  line-height: 60px;
+  display: block;
+  font-weight: 600;
+}
+@media (max-width: 1200px) {
+  .wp-block-technation-tnr2019-stat-block {
+    background-size: 22px;
+    background-position: 0 47px;
+  }
+  .wp-block-technation-tnr2019-stat-block strong {
+    font-size: 60px;
+    line-height: 80px;
+    display: block;
+    font-weight: 400;
+  }
+}
+.wp-block-technation-tnr2019-stat-block small {
+  font-size: 16px;
+  line-height: 20px;
+  display: block;
+  margin: 0;
+}
+
+/*
+     FILE ARCHIVED ON 18:59:20 Nov 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:44:34 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 1.446
+  exclusion.robots: 0.042
+  exclusion.robots.policy: 0.027
+  esindex: 0.015
+  cdx.remote: 92.961
+  LoadShardBlock: 311.223 (3)
+  PetaboxLoader3.datanode: 318.297 (4)
+  load_resource: 22.331
+*/

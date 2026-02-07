@@ -1,0 +1,36 @@
+/**
+ * ----------------------------------------------------------------------------
+ * Frontend CSS
+ * ----------------------------------------------------------------------------
+ */
+.wp-block-technation-button-block a {
+  display: inline-block;
+  margin: auto;
+  padding: 0.5em 2em;
+  background-color: #000;
+  color: #fff;
+  border-radius: 100px;
+  min-width: 50px;
+  text-align: center;
+}
+
+/*
+     FILE ARCHIVED ON 18:59:20 Nov 18, 2022 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 05:44:27 Feb 07, 2026.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+/*
+playback timings (ms):
+  captures_list: 0.937
+  exclusion.robots: 0.04
+  exclusion.robots.policy: 0.025
+  esindex: 0.014
+  cdx.remote: 6.89
+  LoadShardBlock: 86.855 (3)
+  PetaboxLoader3.datanode: 94.965 (4)
+  load_resource: 117.618
+  PetaboxLoader3.resolve: 97.649
+*/
