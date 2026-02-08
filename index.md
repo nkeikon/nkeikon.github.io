@@ -2,6 +2,26 @@
 layout: default
 title: Keiko Nomura - Earth System Scientist
 ---
+<!-- Structured identity data for search engines -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Keiko Nomura",
+  "url": "https://nkeikon.github.io/",
+  "jobTitle": "Earth System Scientist",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "NASA Ames Research Center"
+  },
+  "sameAs": [
+    "https://github.com/nkeikon",
+    "https://www.linkedin.com/in/keiko-nomura-0231891/",
+    "https://scholar.google.com/citations?user=4DG43OgAAAAJ&hl=en",
+    "https://www.nasa.gov/people/keiko-nomura/"
+  ]
+}
+</script>
 
 <script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
 <script type="module">
