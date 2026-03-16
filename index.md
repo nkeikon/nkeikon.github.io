@@ -32,7 +32,7 @@ title: Keiko Nomura - Earth System Scientist
 Earth system scientist. From Kyoto 🇯🇵, studied in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿, now based in 🌉 California.
 
 ## News
-
+- Guest on the [Geomob podcast](https://thegeomob.com/podcast/episode-329) (March 2026)
 - Served as a judge for the NASA Space Apps Challenge! [Aberdeen, MD](https://www.linkedin.com/posts/coastal-shieldai-87231b377_it-was-such-a-fun-event-to-be-part-of-the-activity-7381425690811924480-nmpH?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAA0INsBVIO1f6nS_NkKqFh4Na1ZpoYo2fc) (October 2025)
 - ECOSTRESS imagery I produced over the Dutch Slough Tidal Marsh Restoration Project was selected in Featured Image Highlights [(See the original post)](https://www.linkedin.com/feed/update/urn:li:activity:7374935564229279744/) (October 2025).
 - Joined the NASA Earth eXchange [(NEX)](https://www.nasa.gov/nasa-earth-exchange-nex/nex-team/) (September, 2024)
