@@ -26,13 +26,14 @@ title: Keiko Nomura - Earth System Scientist
 <script type="module">
   import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
   new cursoreffects.rainbowCursor();
+</script>
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZLJV0W7PWQ"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
-
   gtag('config', 'G-ZLJV0W7PWQ');
 </script>
 
