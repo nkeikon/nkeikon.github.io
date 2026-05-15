@@ -23,10 +23,14 @@ title: Keiko Nomura - Earth System Scientist
 }
 </script>
 
-<script src="https://unpkg.com/cursor-effects@latest/dist/browser.js"></script>
-<script type="module">
-  import cursoreffects from 'https://unpkg.com/cursor-effects@latest/dist/esm.js';
-  new cursoreffects.rainbowCursor();
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-ZLJV0W7PWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-ZLJV0W7PWQ');
 </script>
 
 Earth system scientist. From Kyoto 🇯🇵, studied in Edinburgh 🏴󠁧󠁢󠁳󠁣󠁴󠁿, now based in 🌉 California.
