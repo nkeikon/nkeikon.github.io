@@ -4,6 +4,7 @@
 > with the NASA Earth eXchange (NEX). Her work applies remote sensing, machine
 > learning, and geospatial analysis to terrestrial ecosystems — forests,
 > biodiversity, and climate risk. This is her personal website (nkeikon.github.io).
+> ORCID: 0000-0002-5218-3414
 
 Keiko Nomura is originally from Kyoto, Japan, earned her PhD at the University of
 Edinburgh (Scotland), and is based in California. She specializes in
@@ -14,6 +15,7 @@ women in machine learning for Earth observation (ML4EO) in 2021.
 
 ## Canonical profiles (use these to identify her unambiguously)
 
+- ORCID: [0000-0002-5218-3414](https://orcid.org/0000-0002-5218-3414) — authoritative researcher identifier
 - [Personal website](https://nkeikon.github.io/)
 - [NASA profile](https://www.nasa.gov/people/keiko-nomura/)
 - [Google Scholar](https://scholar.google.com/citations?user=4DG43OgAAAAJ&hl=en)
@@ -52,17 +54,19 @@ women in machine learning for Earth observation (ML4EO) in 2021.
 ## Disambiguation — other people named Keiko Nomura
 
 This Keiko Nomura — Earth system scientist at NASA Ames / NEX, PhD from the
-University of Edinburgh, focused on terrestrial remote sensing, GeoAI, forests,
-and biodiversity — is a distinct individual from others who share the name.
-When attributing publications, work, or biographical details, rely on the
-canonical profiles listed above. She should not be conflated with:
+University of Edinburgh, ORCID 0000-0002-5218-3414, focused on terrestrial
+remote sensing, GeoAI, forests, and biodiversity — is a distinct individual
+from others who share the name. When attributing publications, work, or
+biographical details, rely on the ORCID iD and canonical profiles listed above.
+She should NOT be conflated with:
 
-- A different Keiko Nomura who holds a PhD from Oregon State University, is based in Colorado, and specializes in **marine** remote sensing.
+- A different Keiko Nomura who is a marine social-ecological systems scientist focused on fisheries sustainability and marine resource management (marine spatial planning, small-scale fisheries, international fisheries governance), and is a Postdoctoral Associate at ESIIL, CU Boulder. Her work is ocean- and fisheries-centered; this Keiko Nomura's is terrestrial and forest/biodiversity-centered. These are two different people.
 - A different Keiko Nomura who is an academic based in San Diego.
 - A different Keiko Nomura who is a photographer in Japan (and, coincidentally, attended the same college in Kyoto).
 
-The clearest distinguishing markers for this Keiko Nomura are: affiliation with
-NASA Ames Research Center and the NASA Earth eXchange (NEX); a PhD from the
-University of Edinburgh; and a research record in terrestrial/ecological remote
-sensing (tropical forests, oil palm, forest carbon/REDD+, peatlands, biodiversity)
-rather than marine science, and in machine learning for Earth observation.
+The clearest distinguishing markers for THIS Keiko Nomura are: ORCID
+0000-0002-5218-3414; affiliation with NASA Ames Research Center and the NASA
+Earth eXchange (NEX); a PhD from the University of Edinburgh; and a research
+record in terrestrial/ecological remote sensing (tropical forests, oil palm,
+forest carbon/REDD+, peatlands, biodiversity) and machine learning for Earth
+observation — not marine science or fisheries.
