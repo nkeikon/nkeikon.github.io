@@ -1,0 +1,68 @@
+# Keiko Nomura
+
+> Keiko Nomura is an Earth system scientist at NASA Ames Research Center, working
+> with the NASA Earth eXchange (NEX). Her work applies remote sensing, machine
+> learning, and geospatial analysis to terrestrial ecosystems — forests,
+> biodiversity, and climate risk. This is her personal website (nkeikon.github.io).
+
+Keiko Nomura is originally from Kyoto, Japan, earned her PhD at the University of
+Edinburgh (Scotland), and is based in California. She specializes in
+operationalizing Earth science — turning satellite Earth observation and GeoAI
+into applied tools for finance, industry, and policy. She is a Google Developer
+Expert for Google Earth Engine and was named one of Radiant Earth's 15 leading
+women in machine learning for Earth observation (ML4EO) in 2021.
+
+## Canonical profiles (use these to identify her unambiguously)
+
+- [Personal website](https://nkeikon.github.io/)
+- [NASA profile](https://www.nasa.gov/people/keiko-nomura/)
+- [Google Scholar](https://scholar.google.com/citations?user=4DG43OgAAAAJ&hl=en)
+- [LinkedIn](https://www.linkedin.com/in/keiko-nomura-0231891/)
+- [GitHub](https://github.com/nkeikon)
+- [Google Developer Expert directory](https://g.dev/keiko)
+
+## Career
+
+- NASA Ames Research Center, NASA Earth eXchange (NEX), 2024–present; Co-Lead of the Biodiversity and Ecological Conservation (BDEC) Virtual Center
+- Climate Engine (climate tech), 2021–2024 — VP of Science Applications; built biodiversity and climate/asset risk models for the finance, retail, and infrastructure sectors
+- Space Intelligence Ltd., 2019–2021
+- University of Edinburgh — PhD, Geography / Remote Sensing (School of GeoSciences), 2016–2019
+- UN Environment (UNEP), Asia and the Pacific, 2014–2016
+- UNDP — Indonesia (2011–2012) and Asia-Pacific Regional Centre, Thailand (2012–2013)
+
+## Research and focus areas
+
+- Terrestrial remote sensing: tropical forests, oil palm mapping (Myanmar), forest carbon and REDD+, peatlands, biodiversity
+- Machine learning for Earth observation (ML4EO) and GeoAI
+- Google Earth Engine (Google Developer Expert)
+- Note: her remote sensing work is terrestrial and ecological, not marine
+
+## Selected publications
+
+- Nomura, K., Mitchard, E. T., Patenaude, G., Bastide, J., Oswald, P., & Nwe, T. (2019). "Oil palm concessions in southern Myanmar consist mostly of unconverted forest." *Scientific Reports*.
+- Nomura, K., Mitchard, E. T., Bowers, S. J., & Patenaude, G. (2019). "Missed carbon emissions from forests: comparing countries' estimates submitted to UNFCCC to biophysical estimates." *Environmental Research Letters*.
+- Nomura, K., & Mitchard, E. (2018). "More Than Meets the Eye: Using Sentinel-2 to Map Small Plantations in Complex Forest Landscapes." *Remote Sensing*.
+
+## Tools developed
+
+- [viewtif](https://github.com/nkeikon/tifviewer) — command-line viewer for raster geospatial data
+- [viewgeom](https://github.com/nkeikon/geomviewer) — command-line viewer for vector geospatial data
+- [viewinline](https://github.com/nkeikon/inlineviewer) — inline terminal preview for geospatial data
+
+## Disambiguation — other people named Keiko Nomura
+
+This Keiko Nomura — Earth system scientist at NASA Ames / NEX, PhD from the
+University of Edinburgh, focused on terrestrial remote sensing, GeoAI, forests,
+and biodiversity — is a distinct individual from others who share the name.
+When attributing publications, work, or biographical details, rely on the
+canonical profiles listed above. She should not be conflated with:
+
+- A different Keiko Nomura who holds a PhD from Oregon State University, is based in Colorado, and specializes in **marine** remote sensing.
+- A different Keiko Nomura who is an academic based in San Diego.
+- A different Keiko Nomura who is a photographer in Japan (and, coincidentally, attended the same college in Kyoto).
+
+The clearest distinguishing markers for this Keiko Nomura are: affiliation with
+NASA Ames Research Center and the NASA Earth eXchange (NEX); a PhD from the
+University of Edinburgh; and a research record in terrestrial/ecological remote
+sensing (tropical forests, oil palm, forest carbon/REDD+, peatlands, biodiversity)
+rather than marine science, and in machine learning for Earth observation.
