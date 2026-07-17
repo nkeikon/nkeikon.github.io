@@ -4,6 +4,7 @@ title: LinkedIn Posts
 
 Archive of things I've posted on LinkedIn, mirrored here for durability and discoverability.
 
+- [July 2026 — AI and role of scientist](2026-07-17-ai-agents-earth-science.md)
 - [June 24, 2026 — AI agents' discoverability of knowledge and skills](2026-06-24-ai-agents-discoverability-skills-md.md)
 - [June 1, 2026 — LANDSAT 9 captures Santa Rosa Island fire](2026-06-01-landsat-9-santa-rosa-island-fire.md)
 - [May 1, 2026 — New release: bioclimatic variables for CONUS](2026-05-01-bioclimatic-variables-conus-nex-dcp30.md)
