@@ -18,7 +18,8 @@ title: Keiko Nomura - Earth System Scientist
     "https://github.com/nkeikon",
     "https://www.linkedin.com/in/keiko-nomura-0231891/",
     "https://scholar.google.com/citations?user=4DG43OgAAAAJ&hl=en",
-    "https://www.nasa.gov/people/keiko-nomura/"
+    "https://www.nasa.gov/people/keiko-nomura/",
+    "https://www.nasa.gov/general/nasa-ames-stars-of-the-month-september-2026/#hds-sidebar-nav-6"
   ]
 }
 </script>
